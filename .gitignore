@@ -1,0 +1,22 @@
+# Data files — too large for GitHub
+data/raw/
+data/processed/
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.egg-info/
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Wandb
+wandb/

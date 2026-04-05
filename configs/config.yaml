@@ -1,0 +1,21 @@
+data_cleaning:
+  confidence_threshold: 0.70
+  min_area_m2: 25.0
+  centroid_merge_distance_m: 5.0
+  large_complex_threshold_m2: 2000.0
+
+geo:
+  zoom_level: 19
+  gsd: 0.2567
+  city: chandigarh
+  bbox_north: 30.7900
+  bbox_south: 30.6500
+  bbox_east: 76.8800
+  bbox_west: 76.7000
+
+energy:
+  ghi_annual: 1825
+  panel_efficiency: 0.20
+  performance_ratio: 0.75
+  confidence_threshold_conservative: 0.70
+  confidence_threshold_optimistic: 0.50
