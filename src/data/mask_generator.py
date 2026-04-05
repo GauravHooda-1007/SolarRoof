@@ -110,6 +110,12 @@ def main():
         output_path = masks_dir / f"{tile_name}.png"
         Image.fromarray(mask, mode='L').save(output_path)
         
+        # Save visualization mask (values 0 and 255) for human review
+        viz_mask = mask * 255
+        viz_path = output_path.parent / 'viz' / output_path.name
+        viz_path.parent.mkdir(parents=True, exist_ok=True)
+        Image.fromarray(viz_mask, mode='L').save(viz_path)
+        
         roof_pixel_pct = 100 * mask.sum() / (512 * 512)
         if roof_pixel_pct == 0.0:
             logging.warning("empty mask for %s", tile_name)
