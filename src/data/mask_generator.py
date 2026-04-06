@@ -67,12 +67,13 @@ def main():
             meta = json.load(f)
             
         tile_name = json_file.stem
-        lon_left = meta['lon_top_left']
-        lat_top = meta['lat_top_left']
-        lon_right = meta['lon_bottom_right']
-        lat_bottom = meta['lat_bottom_right']
         
-        tile_box = box(lon_left, lat_bottom, lon_right, lat_top)
+        tile_box = box(
+            meta['lon_top_left'],       # west
+            meta['lat_bottom_right'],   # south
+            meta['lon_bottom_right'],   # east
+            meta['lat_top_left']        # north
+        )
         
         candidates = list(sindex.intersection(tile_box.bounds))
         matches = gdf.iloc[candidates]
@@ -84,9 +85,18 @@ def main():
             total_processed += 1
             continue
             
+        # from_bounds expects: west, south, east, north
+        # west  = lon_top_left    (leftmost longitude)
+        # south = lat_bottom_right (lowest latitude)
+        # east  = lon_bottom_right (rightmost longitude)  
+        # north = lat_top_left    (highest latitude)
         transform = from_bounds(
-            lon_left, lat_bottom, lon_right, lat_top,
-            width=512, height=512
+            meta['lon_top_left'],       # west
+            meta['lat_bottom_right'],   # south
+            meta['lon_bottom_right'],   # east
+            meta['lat_top_left'],       # north
+            512,                        # width
+            512                         # height
         )
         
         clipped = matches.copy()
@@ -110,11 +120,18 @@ def main():
         output_path = masks_dir / f"{tile_name}.png"
         Image.fromarray(mask, mode='L').save(output_path)
         
-        # Save visualization mask (values 0 and 255) for human review
-        viz_mask = mask * 255
-        viz_path = output_path.parent / 'viz' / output_path.name
-        viz_path.parent.mkdir(parents=True, exist_ok=True)
-        Image.fromarray(viz_mask, mode='L').save(viz_path)
+        # After saving each mask, save an overlay visualization:
+        imagery_path = Path(__file__).resolve().parent.parent.parent / 'data' / 'raw' / 'imagery' / f"{tile_name}.png"
+        sat = np.array(Image.open(imagery_path).convert('RGB'))
+        mask_arr = mask.copy()
+        overlay = sat.copy()
+        overlay[mask_arr == 1] = [0, 255, 0]
+        blended = (0.6 * sat + 0.4 * overlay).astype(np.uint8)
+        viz_dir = masks_dir / 'viz'
+        viz_dir.mkdir(parents=True, exist_ok=True)
+        Image.fromarray(blended).save(
+            viz_dir / f"{tile_name}_overlay.png"
+        )
         
         roof_pixel_pct = 100 * mask.sum() / (512 * 512)
         if roof_pixel_pct == 0.0:
