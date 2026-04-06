@@ -77,25 +77,51 @@ def main():
 
     # STEP 2: Find tiles that contain buildings
     logging.info("STEP 2: Find tiles that contain buildings")
-    tiles = bbox_to_tiles(bbox_dict, zoom)
-    logging.info("Total tiles in bbox: %d", len(tiles))
-
-    tile_records = []
-    for (x, y) in tiles:
-        tl_lat, tl_lon = tile_to_latlon(x, y, zoom)
-        br_lat, br_lon = tile_to_latlon(x+1, y+1, zoom)
-        b = box(tl_lon, br_lat, br_lon, tl_lat)
-        tile_records.append({
-            'x': x,
-            'y': y,
-            'tl_lat': tl_lat,
-            'tl_lon': tl_lon,
-            'br_lat': br_lat,
-            'br_lon': br_lon,
-            'geometry': b
-        })
     
-    tiles_gdf = gpd.GeoDataFrame(tile_records, crs="EPSG:4326")
+    # Priority tiles collection
+    priority_zones = geo_config.get('priority_zones', [])
+    all_tile_records = []
+    
+    # First get tiles for priority zones
+    for zone in priority_zones:
+        z_bbox = {
+            'north': zone['north'],
+            'south': zone['south'],
+            'east': zone['east'],
+            'west': zone['west']
+        }
+        z_tiles = bbox_to_tiles(z_bbox, zoom)
+        for (x, y) in z_tiles:
+            tl_lat, tl_lon = tile_to_latlon(x, y, zoom)
+            br_lat, br_lon = tile_to_latlon(x+1, y+1, zoom)
+            b = box(tl_lon, br_lat, br_lon, tl_lat)
+            all_tile_records.append({
+                'x': x, 'y': y,
+                'tl_lat': tl_lat, 'tl_lon': tl_lon,
+                'br_lat': br_lat, 'br_lon': br_lon,
+                'geometry': b,
+                'zone': zone['name']
+            })
+            
+    # Then get general tiles
+    gen_tiles = bbox_to_tiles(bbox_dict, zoom)
+    prioritized_xy = set((r['x'], r['y']) for r in all_tile_records)
+    
+    for (x, y) in gen_tiles:
+        if (x, y) not in prioritized_xy:
+            tl_lat, tl_lon = tile_to_latlon(x, y, zoom)
+            br_lat, br_lon = tile_to_latlon(x+1, y+1, zoom)
+            b = box(tl_lon, br_lat, br_lon, tl_lat)
+            all_tile_records.append({
+                'x': x, 'y': y,
+                'tl_lat': tl_lat, 'tl_lon': tl_lon,
+                'br_lat': br_lat, 'br_lon': br_lon,
+                'geometry': b,
+                'zone': 'General'
+            })
+            
+    tiles_gdf = gpd.GeoDataFrame(all_tile_records, crs="EPSG:4326")
+    tiles_gdf = tiles_gdf.drop_duplicates(subset=['x', 'y'])
     
     # Use geopandas spatial join to find tiles that intersect at least one building polygon
     sjoin_gdf = gpd.sjoin(tiles_gdf, buildings_gdf, how='inner', predicate='intersects')
@@ -104,7 +130,17 @@ def main():
     tile_counts = sjoin_gdf.groupby(['x', 'y']).size().reset_index(name='building_count')
     
     # Merge back to get tile info
-    active_tiles = tile_counts.merge(pd.DataFrame(tile_records), on=['x', 'y'])
+    active_tiles = tile_counts.merge(tiles_gdf.drop(columns=['geometry']), on=['x', 'y'])
+    
+    # Priority tiles first, then random
+    df_priority = active_tiles[active_tiles['zone'] != 'General'].copy()
+    df_general = active_tiles[active_tiles['zone'] == 'General'].copy()
+    
+    # Randomize both within their groups
+    df_priority = df_priority.sample(frac=1, random_state=42)
+    df_general = df_general.sample(frac=1, random_state=42)
+    
+    active_tiles = pd.concat([df_priority, df_general]).reset_index(drop=True)
     
     logging.info("Tiles containing buildings: %d", len(active_tiles))
 
@@ -181,7 +217,7 @@ def main():
                 json.dump(meta, f, indent=4)
                 
             downloaded_count += 1
-            print(f"Saved tile {zoom}_{x}_{y} — std={std_mean:.1f} — buildings={b_count}")
+            print(f"Saved tile {zoom}_{x}_{y} — zone={row['zone']} — std={std_mean:.1f} — buildings={b_count}")
             
         except Exception as e:
             logging.warning("Failed to download or process tile %s/%s/%s: %s", zoom, y, x, e)

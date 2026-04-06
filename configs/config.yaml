@@ -12,7 +12,32 @@ geo:
   bbox_south: 30.6500
   bbox_east: 76.8800
   bbox_west: 76.7000
-
+  priority_zones:
+    - name: "Sector 22"
+      north: 30.740
+      south: 30.725
+      east:  76.790
+      west:  76.770
+    - name: "Sector 35"
+      north: 30.728
+      south: 30.712
+      east:  76.800
+      west:  76.780
+    - name: "Sector 17"
+      north: 30.748
+      south: 30.735
+      east:  76.788
+      west:  76.768
+    - name: "Sector 15"
+      north: 30.722
+      south: 30.708
+      east:  76.782
+      west:  76.762
+    - name: "Sector 7-8"
+      north: 30.758
+      south: 30.744
+      east:  76.796
+      west:  76.776
 energy:
   ghi_annual: 1825
   panel_efficiency: 0.20
