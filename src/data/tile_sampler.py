@@ -42,7 +42,7 @@ def is_valid_tile(img: Image.Image) -> tuple[bool, float]:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--limit', type=int, default=None, help='Limit number of tiles to download')
+    parser.add_argument('--target-count', type=int, default=3000, help='Limit number of tiles to download')
     parser.add_argument('--output-imagery', type=str, default=str(Path('data/raw/imagery')), help='Path override for imagery folder')
     parser.add_argument('--config', type=str, default=str(CONFIG_PATH), help='Path override for config')
     args = parser.parse_args()
@@ -144,10 +144,9 @@ def main():
     
     logging.info("Tiles containing buildings: %d", len(active_tiles))
 
-    # Apply limit if set
-    if args.limit is not None:
-        active_tiles = active_tiles.head(args.limit)
-        logging.info("Applying limit: processing %d tiles", args.limit)
+    # Apply target count
+    active_tiles = active_tiles.head(args.target_count)
+    logging.info("Applying target-count: processing %d tiles", len(active_tiles))
 
     # STEP 3: Download tiles
     logging.info("STEP 3: Download tiles")
@@ -162,14 +161,27 @@ def main():
     downloaded_count = 0
     failed_count = 0
 
+    already_done = {
+        f.stem for f in img_dir.glob('*.png')
+    }
+    logging.info(f"Already downloaded: {len(already_done)} tiles")
+    logging.info(f"Remaining: {max(0, args.target_count - len(already_done))} tiles")
+
     resample_filter = getattr(Image, 'Resampling', Image).LANCZOS if hasattr(Image, 'Resampling') else Image.LANCZOS
 
-    for i, row in active_tiles.iterrows():
-        if i > 0 and i % 100 == 0:
-            logging.info("Progress: Processed %d tiles...", i)
-            
+    start_time = time.time()
+    total_to_process = len(active_tiles)
+
+    for idx, (i, row) in enumerate(active_tiles.iterrows(), 1):
         x = row['x']
         y = row['y']
+        tile_name = f"{zoom}_{x}_{y}"
+        if tile_name in already_done:
+            continue
+
+        if idx > 1 and (idx - 1) % 50 == 0:
+            elapsed_min = (time.time() - start_time) / 60.0
+            print(f"Progress: {idx-1}/{total_to_process} — zone={row['zone']} — failed={failed_count} — elapsed={elapsed_min:.1f}min")
         
         url = URL_TEMPLATE.format(zoom=zoom, y=y, x=x)
         
