@@ -1,0 +1,1353 @@
+tile_name,zone,imagery_path,mask_path
+19_373910_214978,General,data/raw/imagery/19_373910_214978.png,data/processed/masks/19_373910_214978.png
+19_373966_215032,Sector 7-8,data/raw/imagery/19_373966_215032.png,data/processed/masks/19_373966_215032.png
+19_373976_215036,Sector 7-8,data/raw/imagery/19_373976_215036.png,data/processed/masks/19_373976_215036.png
+19_373968_215083,Sector 22,data/raw/imagery/19_373968_215083.png,data/processed/masks/19_373968_215083.png
+19_373973_215039,Sector 7-8,data/raw/imagery/19_373973_215039.png,data/processed/masks/19_373973_215039.png
+19_374037_215126,General,data/raw/imagery/19_374037_215126.png,data/processed/masks/19_374037_215126.png
+19_373973_215032,Sector 7-8,data/raw/imagery/19_373973_215032.png,data/processed/masks/19_373973_215032.png
+19_373983_215040,Sector 7-8,data/raw/imagery/19_373983_215040.png,data/processed/masks/19_373983_215040.png
+19_373965_215080,Sector 22,data/raw/imagery/19_373965_215080.png,data/processed/masks/19_373965_215080.png
+19_373970_215069,Sector 22,data/raw/imagery/19_373970_215069.png,data/processed/masks/19_373970_215069.png
+19_373965_215062,Sector 22,data/raw/imagery/19_373965_215062.png,data/processed/masks/19_373965_215062.png
+19_373961_215035,Sector 7-8,data/raw/imagery/19_373961_215035.png,data/processed/masks/19_373961_215035.png
+19_373983_215052,Sector 7-8,data/raw/imagery/19_373983_215052.png,data/processed/masks/19_373983_215052.png
+19_373973_215038,Sector 7-8,data/raw/imagery/19_373973_215038.png,data/processed/masks/19_373973_215038.png
+19_373969_215077,Sector 22,data/raw/imagery/19_373969_215077.png,data/processed/masks/19_373969_215077.png
+19_373962_215083,Sector 22,data/raw/imagery/19_373962_215083.png,data/processed/masks/19_373962_215083.png
+19_374006_215049,General,data/raw/imagery/19_374006_215049.png,data/processed/masks/19_374006_215049.png
+19_373980_215046,Sector 7-8,data/raw/imagery/19_373980_215046.png,data/processed/masks/19_373980_215046.png
+19_373971_215068,Sector 22,data/raw/imagery/19_373971_215068.png,data/processed/masks/19_373971_215068.png
+19_373907_215107,General,data/raw/imagery/19_373907_215107.png,data/processed/masks/19_373907_215107.png
+19_373967_215039,Sector 7-8,data/raw/imagery/19_373967_215039.png,data/processed/masks/19_373967_215039.png
+19_373968_215060,Sector 22,data/raw/imagery/19_373968_215060.png,data/processed/masks/19_373968_215060.png
+19_373963_215078,Sector 22,data/raw/imagery/19_373963_215078.png,data/processed/masks/19_373963_215078.png
+19_373956_215072,Sector 22,data/raw/imagery/19_373956_215072.png,data/processed/masks/19_373956_215072.png
+19_373976_215073,Sector 22,data/raw/imagery/19_373976_215073.png,data/processed/masks/19_373976_215073.png
+19_373963_215043,Sector 7-8,data/raw/imagery/19_373963_215043.png,data/processed/masks/19_373963_215043.png
+19_373964_215071,Sector 22,data/raw/imagery/19_373964_215071.png,data/processed/masks/19_373964_215071.png
+19_373978_215033,Sector 7-8,data/raw/imagery/19_373978_215033.png,data/processed/masks/19_373978_215033.png
+19_373948_215061,Sector 22,data/raw/imagery/19_373948_215061.png,data/processed/masks/19_373948_215061.png
+19_373952_215078,Sector 22,data/raw/imagery/19_373952_215078.png,data/processed/masks/19_373952_215078.png
+19_373973_215043,Sector 7-8,data/raw/imagery/19_373973_215043.png,data/processed/masks/19_373973_215043.png
+19_373964_215075,Sector 22,data/raw/imagery/19_373964_215075.png,data/processed/masks/19_373964_215075.png
+19_373955_215068,Sector 22,data/raw/imagery/19_373955_215068.png,data/processed/masks/19_373955_215068.png
+19_373974_215032,Sector 7-8,data/raw/imagery/19_373974_215032.png,data/processed/masks/19_373974_215032.png
+19_373971_215064,Sector 22,data/raw/imagery/19_373971_215064.png,data/processed/masks/19_373971_215064.png
+19_373969_215034,Sector 7-8,data/raw/imagery/19_373969_215034.png,data/processed/masks/19_373969_215034.png
+19_373979_215049,Sector 7-8,data/raw/imagery/19_373979_215049.png,data/processed/masks/19_373979_215049.png
+19_373977_215062,Sector 22,data/raw/imagery/19_373977_215062.png,data/processed/masks/19_373977_215062.png
+19_373964_215067,Sector 22,data/raw/imagery/19_373964_215067.png,data/processed/masks/19_373964_215067.png
+19_373949_215074,Sector 22,data/raw/imagery/19_373949_215074.png,data/processed/masks/19_373949_215074.png
+19_373911_215089,General,data/raw/imagery/19_373911_215089.png,data/processed/masks/19_373911_215089.png
+19_373984_215047,Sector 7-8,data/raw/imagery/19_373984_215047.png,data/processed/masks/19_373984_215047.png
+19_373973_215073,Sector 22,data/raw/imagery/19_373973_215073.png,data/processed/masks/19_373973_215073.png
+19_373997_215188,General,data/raw/imagery/19_373997_215188.png,data/processed/masks/19_373997_215188.png
+19_373975_215062,Sector 22,data/raw/imagery/19_373975_215062.png,data/processed/masks/19_373975_215062.png
+19_373954_215064,Sector 22,data/raw/imagery/19_373954_215064.png,data/processed/masks/19_373954_215064.png
+19_373890_215141,General,data/raw/imagery/19_373890_215141.png,data/processed/masks/19_373890_215141.png
+19_373976_215067,Sector 22,data/raw/imagery/19_373976_215067.png,data/processed/masks/19_373976_215067.png
+19_373973_215036,Sector 7-8,data/raw/imagery/19_373973_215036.png,data/processed/masks/19_373973_215036.png
+19_373960_215028,Sector 7-8,data/raw/imagery/19_373960_215028.png,data/processed/masks/19_373960_215028.png
+19_373953_215076,Sector 22,data/raw/imagery/19_373953_215076.png,data/processed/masks/19_373953_215076.png
+19_373954_215062,Sector 22,data/raw/imagery/19_373954_215062.png,data/processed/masks/19_373954_215062.png
+19_373951_215071,Sector 22,data/raw/imagery/19_373951_215071.png,data/processed/masks/19_373951_215071.png
+19_373958_215078,Sector 22,data/raw/imagery/19_373958_215078.png,data/processed/masks/19_373958_215078.png
+19_373958_215031,Sector 7-8,data/raw/imagery/19_373958_215031.png,data/processed/masks/19_373958_215031.png
+19_373964_215073,Sector 22,data/raw/imagery/19_373964_215073.png,data/processed/masks/19_373964_215073.png
+19_373935_215128,General,data/raw/imagery/19_373935_215128.png,data/processed/masks/19_373935_215128.png
+19_373965_215065,Sector 22,data/raw/imagery/19_373965_215065.png,data/processed/masks/19_373965_215065.png
+19_373986_215048,Sector 7-8,data/raw/imagery/19_373986_215048.png,data/processed/masks/19_373986_215048.png
+19_373960_215038,Sector 7-8,data/raw/imagery/19_373960_215038.png,data/processed/masks/19_373960_215038.png
+19_374027_215156,General,data/raw/imagery/19_374027_215156.png,data/processed/masks/19_374027_215156.png
+19_373958_215035,Sector 7-8,data/raw/imagery/19_373958_215035.png,data/processed/masks/19_373958_215035.png
+19_373978_215030,Sector 7-8,data/raw/imagery/19_373978_215030.png,data/processed/masks/19_373978_215030.png
+19_373969_215078,Sector 22,data/raw/imagery/19_373969_215078.png,data/processed/masks/19_373969_215078.png
+19_373962_215068,Sector 22,data/raw/imagery/19_373962_215068.png,data/processed/masks/19_373962_215068.png
+19_373948_215063,Sector 22,data/raw/imagery/19_373948_215063.png,data/processed/masks/19_373948_215063.png
+19_373951_215076,Sector 22,data/raw/imagery/19_373951_215076.png,data/processed/masks/19_373951_215076.png
+19_373981_215049,Sector 7-8,data/raw/imagery/19_373981_215049.png,data/processed/masks/19_373981_215049.png
+19_373983_215044,Sector 7-8,data/raw/imagery/19_373983_215044.png,data/processed/masks/19_373983_215044.png
+19_373973_215031,Sector 7-8,data/raw/imagery/19_373973_215031.png,data/processed/masks/19_373973_215031.png
+19_373927_215155,General,data/raw/imagery/19_373927_215155.png,data/processed/masks/19_373927_215155.png
+19_373954_215069,Sector 22,data/raw/imagery/19_373954_215069.png,data/processed/masks/19_373954_215069.png
+19_373957_215061,Sector 22,data/raw/imagery/19_373957_215061.png,data/processed/masks/19_373957_215061.png
+19_373972_215066,Sector 22,data/raw/imagery/19_373972_215066.png,data/processed/masks/19_373972_215066.png
+19_373969_215035,Sector 7-8,data/raw/imagery/19_373969_215035.png,data/processed/masks/19_373969_215035.png
+19_373908_215125,General,data/raw/imagery/19_373908_215125.png,data/processed/masks/19_373908_215125.png
+19_373970_215059,Sector 22,data/raw/imagery/19_373970_215059.png,data/processed/masks/19_373970_215059.png
+19_373961_215034,Sector 7-8,data/raw/imagery/19_373961_215034.png,data/processed/masks/19_373961_215034.png
+19_373958_215084,Sector 22,data/raw/imagery/19_373958_215084.png,data/processed/masks/19_373958_215084.png
+19_373967_215077,Sector 22,data/raw/imagery/19_373967_215077.png,data/processed/masks/19_373967_215077.png
+19_373959_215075,Sector 22,data/raw/imagery/19_373959_215075.png,data/processed/masks/19_373959_215075.png
+19_373966_215074,Sector 22,data/raw/imagery/19_373966_215074.png,data/processed/masks/19_373966_215074.png
+19_374083_215111,General,data/raw/imagery/19_374083_215111.png,data/processed/masks/19_374083_215111.png
+19_373977_215076,Sector 22,data/raw/imagery/19_373977_215076.png,data/processed/masks/19_373977_215076.png
+19_373977_215065,Sector 22,data/raw/imagery/19_373977_215065.png,data/processed/masks/19_373977_215065.png
+19_373965_215071,Sector 22,data/raw/imagery/19_373965_215071.png,data/processed/masks/19_373965_215071.png
+19_373960_215030,Sector 7-8,data/raw/imagery/19_373960_215030.png,data/processed/masks/19_373960_215030.png
+19_373949_215060,Sector 22,data/raw/imagery/19_373949_215060.png,data/processed/masks/19_373949_215060.png
+19_373970_215070,Sector 22,data/raw/imagery/19_373970_215070.png,data/processed/masks/19_373970_215070.png
+19_373985_215040,Sector 7-8,data/raw/imagery/19_373985_215040.png,data/processed/masks/19_373985_215040.png
+19_373961_215083,Sector 22,data/raw/imagery/19_373961_215083.png,data/processed/masks/19_373961_215083.png
+19_373978_215049,Sector 7-8,data/raw/imagery/19_373978_215049.png,data/processed/masks/19_373978_215049.png
+19_374002_214985,General,data/raw/imagery/19_374002_214985.png,data/processed/masks/19_374002_214985.png
+19_373977_215047,Sector 7-8,data/raw/imagery/19_373977_215047.png,data/processed/masks/19_373977_215047.png
+19_374039_215100,General,data/raw/imagery/19_374039_215100.png,data/processed/masks/19_374039_215100.png
+19_373978_215028,Sector 7-8,data/raw/imagery/19_373978_215028.png,data/processed/masks/19_373978_215028.png
+19_373967_215031,Sector 7-8,data/raw/imagery/19_373967_215031.png,data/processed/masks/19_373967_215031.png
+19_373964_215079,Sector 22,data/raw/imagery/19_373964_215079.png,data/processed/masks/19_373964_215079.png
+19_373961_215070,Sector 22,data/raw/imagery/19_373961_215070.png,data/processed/masks/19_373961_215070.png
+19_373961_215044,Sector 7-8,data/raw/imagery/19_373961_215044.png,data/processed/masks/19_373961_215044.png
+19_373969_215061,Sector 22,data/raw/imagery/19_373969_215061.png,data/processed/masks/19_373969_215061.png
+19_373958_215075,Sector 22,data/raw/imagery/19_373958_215075.png,data/processed/masks/19_373958_215075.png
+19_373972_215079,Sector 22,data/raw/imagery/19_373972_215079.png,data/processed/masks/19_373972_215079.png
+19_373976_215031,Sector 7-8,data/raw/imagery/19_373976_215031.png,data/processed/masks/19_373976_215031.png
+19_373980_215048,Sector 7-8,data/raw/imagery/19_373980_215048.png,data/processed/masks/19_373980_215048.png
+19_373976_215030,Sector 7-8,data/raw/imagery/19_373976_215030.png,data/processed/masks/19_373976_215030.png
+19_373984_215030,Sector 7-8,data/raw/imagery/19_373984_215030.png,data/processed/masks/19_373984_215030.png
+19_373963_215079,Sector 22,data/raw/imagery/19_373963_215079.png,data/processed/masks/19_373963_215079.png
+19_374056_215150,General,data/raw/imagery/19_374056_215150.png,data/processed/masks/19_374056_215150.png
+19_373978_215029,Sector 7-8,data/raw/imagery/19_373978_215029.png,data/processed/masks/19_373978_215029.png
+19_373961_215084,Sector 22,data/raw/imagery/19_373961_215084.png,data/processed/masks/19_373961_215084.png
+19_373963_215073,Sector 22,data/raw/imagery/19_373963_215073.png,data/processed/masks/19_373963_215073.png
+19_373962_215069,Sector 22,data/raw/imagery/19_373962_215069.png,data/processed/masks/19_373962_215069.png
+19_373934_215140,General,data/raw/imagery/19_373934_215140.png,data/processed/masks/19_373934_215140.png
+19_373964_215043,Sector 7-8,data/raw/imagery/19_373964_215043.png,data/processed/masks/19_373964_215043.png
+19_373975_215033,Sector 7-8,data/raw/imagery/19_373975_215033.png,data/processed/masks/19_373975_215033.png
+19_373971_215084,Sector 22,data/raw/imagery/19_373971_215084.png,data/processed/masks/19_373971_215084.png
+19_373974_215077,Sector 22,data/raw/imagery/19_373974_215077.png,data/processed/masks/19_373974_215077.png
+19_373965_215077,Sector 22,data/raw/imagery/19_373965_215077.png,data/processed/masks/19_373965_215077.png
+19_373965_215081,Sector 22,data/raw/imagery/19_373965_215081.png,data/processed/masks/19_373965_215081.png
+19_373954_215071,Sector 22,data/raw/imagery/19_373954_215071.png,data/processed/masks/19_373954_215071.png
+19_373972_215073,Sector 22,data/raw/imagery/19_373972_215073.png,data/processed/masks/19_373972_215073.png
+19_373955_215061,Sector 22,data/raw/imagery/19_373955_215061.png,data/processed/masks/19_373955_215061.png
+19_373952_215066,Sector 22,data/raw/imagery/19_373952_215066.png,data/processed/masks/19_373952_215066.png
+19_373923_215146,General,data/raw/imagery/19_373923_215146.png,data/processed/masks/19_373923_215146.png
+19_373976_215041,Sector 7-8,data/raw/imagery/19_373976_215041.png,data/processed/masks/19_373976_215041.png
+19_373953_215064,Sector 22,data/raw/imagery/19_373953_215064.png,data/processed/masks/19_373953_215064.png
+19_373972_215083,Sector 22,data/raw/imagery/19_373972_215083.png,data/processed/masks/19_373972_215083.png
+19_373957_215033,Sector 7-8,data/raw/imagery/19_373957_215033.png,data/processed/masks/19_373957_215033.png
+19_373878_215107,General,data/raw/imagery/19_373878_215107.png,data/processed/masks/19_373878_215107.png
+19_373949_215066,Sector 22,data/raw/imagery/19_373949_215066.png,data/processed/masks/19_373949_215066.png
+19_373979_215030,Sector 7-8,data/raw/imagery/19_373979_215030.png,data/processed/masks/19_373979_215030.png
+19_373970_215034,Sector 7-8,data/raw/imagery/19_373970_215034.png,data/processed/masks/19_373970_215034.png
+19_373964_215081,Sector 22,data/raw/imagery/19_373964_215081.png,data/processed/masks/19_373964_215081.png
+19_373972_215060,Sector 22,data/raw/imagery/19_373972_215060.png,data/processed/masks/19_373972_215060.png
+19_373957_215067,Sector 22,data/raw/imagery/19_373957_215067.png,data/processed/masks/19_373957_215067.png
+19_373974_215028,Sector 7-8,data/raw/imagery/19_373974_215028.png,data/processed/masks/19_373974_215028.png
+19_373967_215028,Sector 7-8,data/raw/imagery/19_373967_215028.png,data/processed/masks/19_373967_215028.png
+19_373957_215036,Sector 7-8,data/raw/imagery/19_373957_215036.png,data/processed/masks/19_373957_215036.png
+19_373956_215082,Sector 22,data/raw/imagery/19_373956_215082.png,data/processed/masks/19_373956_215082.png
+19_373964_215035,Sector 7-8,data/raw/imagery/19_373964_215035.png,data/processed/masks/19_373964_215035.png
+19_373952_215074,Sector 22,data/raw/imagery/19_373952_215074.png,data/processed/masks/19_373952_215074.png
+19_373979_214995,General,data/raw/imagery/19_373979_214995.png,data/processed/masks/19_373979_214995.png
+19_373948_215066,Sector 22,data/raw/imagery/19_373948_215066.png,data/processed/masks/19_373948_215066.png
+19_373960_215042,Sector 7-8,data/raw/imagery/19_373960_215042.png,data/processed/masks/19_373960_215042.png
+19_373979_215052,Sector 7-8,data/raw/imagery/19_373979_215052.png,data/processed/masks/19_373979_215052.png
+19_373958_215041,Sector 7-8,data/raw/imagery/19_373958_215041.png,data/processed/masks/19_373958_215041.png
+19_373965_215040,Sector 7-8,data/raw/imagery/19_373965_215040.png,data/processed/masks/19_373965_215040.png
+19_374036_215173,General,data/raw/imagery/19_374036_215173.png,data/processed/masks/19_374036_215173.png
+19_373966_215063,Sector 22,data/raw/imagery/19_373966_215063.png,data/processed/masks/19_373966_215063.png
+19_373970_215067,Sector 22,data/raw/imagery/19_373970_215067.png,data/processed/masks/19_373970_215067.png
+19_373954_215072,Sector 22,data/raw/imagery/19_373954_215072.png,data/processed/masks/19_373954_215072.png
+19_373974_215066,Sector 22,data/raw/imagery/19_373974_215066.png,data/processed/masks/19_373974_215066.png
+19_373963_215044,Sector 7-8,data/raw/imagery/19_373963_215044.png,data/processed/masks/19_373963_215044.png
+19_373977_215032,Sector 7-8,data/raw/imagery/19_373977_215032.png,data/processed/masks/19_373977_215032.png
+19_373960_215034,Sector 7-8,data/raw/imagery/19_373960_215034.png,data/processed/masks/19_373960_215034.png
+19_373989_215044,General,data/raw/imagery/19_373989_215044.png,data/processed/masks/19_373989_215044.png
+19_373967_215081,Sector 22,data/raw/imagery/19_373967_215081.png,data/processed/masks/19_373967_215081.png
+19_373975_215049,Sector 7-8,data/raw/imagery/19_373975_215049.png,data/processed/masks/19_373975_215049.png
+19_373955_215082,Sector 22,data/raw/imagery/19_373955_215082.png,data/processed/masks/19_373955_215082.png
+19_374047_215197,General,data/raw/imagery/19_374047_215197.png,data/processed/masks/19_374047_215197.png
+19_373954_215079,Sector 22,data/raw/imagery/19_373954_215079.png,data/processed/masks/19_373954_215079.png
+19_373976_215044,Sector 7-8,data/raw/imagery/19_373976_215044.png,data/processed/masks/19_373976_215044.png
+19_373970_215083,Sector 22,data/raw/imagery/19_373970_215083.png,data/processed/masks/19_373970_215083.png
+19_373966_215076,Sector 22,data/raw/imagery/19_373966_215076.png,data/processed/masks/19_373966_215076.png
+19_373951_215083,Sector 22,data/raw/imagery/19_373951_215083.png,data/processed/masks/19_373951_215083.png
+19_373974_215067,Sector 22,data/raw/imagery/19_373974_215067.png,data/processed/masks/19_373974_215067.png
+19_373971_215041,Sector 7-8,data/raw/imagery/19_373971_215041.png,data/processed/masks/19_373971_215041.png
+19_373977_215035,Sector 7-8,data/raw/imagery/19_373977_215035.png,data/processed/masks/19_373977_215035.png
+19_373955_215066,Sector 22,data/raw/imagery/19_373955_215066.png,data/processed/masks/19_373955_215066.png
+19_373983_215049,Sector 7-8,data/raw/imagery/19_373983_215049.png,data/processed/masks/19_373983_215049.png
+19_373971_215066,Sector 22,data/raw/imagery/19_373971_215066.png,data/processed/masks/19_373971_215066.png
+19_373957_215084,Sector 22,data/raw/imagery/19_373957_215084.png,data/processed/masks/19_373957_215084.png
+19_373921_215008,General,data/raw/imagery/19_373921_215008.png,data/processed/masks/19_373921_215008.png
+19_373966_215083,Sector 22,data/raw/imagery/19_373966_215083.png,data/processed/masks/19_373966_215083.png
+19_373963_215016,General,data/raw/imagery/19_373963_215016.png,data/processed/masks/19_373963_215016.png
+19_373965_215069,Sector 22,data/raw/imagery/19_373965_215069.png,data/processed/masks/19_373965_215069.png
+19_373984_215051,Sector 7-8,data/raw/imagery/19_373984_215051.png,data/processed/masks/19_373984_215051.png
+19_373967_215084,Sector 22,data/raw/imagery/19_373967_215084.png,data/processed/masks/19_373967_215084.png
+19_373979_215159,General,data/raw/imagery/19_373979_215159.png,data/processed/masks/19_373979_215159.png
+19_373968_215074,Sector 22,data/raw/imagery/19_373968_215074.png,data/processed/masks/19_373968_215074.png
+19_373948_215071,Sector 22,data/raw/imagery/19_373948_215071.png,data/processed/masks/19_373948_215071.png
+19_373949_215082,Sector 22,data/raw/imagery/19_373949_215082.png,data/processed/masks/19_373949_215082.png
+19_373986_215050,Sector 7-8,data/raw/imagery/19_373986_215050.png,data/processed/masks/19_373986_215050.png
+19_373963_215040,Sector 7-8,data/raw/imagery/19_373963_215040.png,data/processed/masks/19_373963_215040.png
+19_373960_215044,Sector 7-8,data/raw/imagery/19_373960_215044.png,data/processed/masks/19_373960_215044.png
+19_373956_215062,Sector 22,data/raw/imagery/19_373956_215062.png,data/processed/masks/19_373956_215062.png
+19_374076_215107,General,data/raw/imagery/19_374076_215107.png,data/processed/masks/19_374076_215107.png
+19_373965_215066,Sector 22,data/raw/imagery/19_373965_215066.png,data/processed/masks/19_373965_215066.png
+19_373955_215077,Sector 22,data/raw/imagery/19_373955_215077.png,data/processed/masks/19_373955_215077.png
+19_373957_215039,Sector 7-8,data/raw/imagery/19_373957_215039.png,data/processed/masks/19_373957_215039.png
+19_373963_215074,Sector 22,data/raw/imagery/19_373963_215074.png,data/processed/masks/19_373963_215074.png
+19_373950_215061,Sector 22,data/raw/imagery/19_373950_215061.png,data/processed/masks/19_373950_215061.png
+19_373961_215080,Sector 22,data/raw/imagery/19_373961_215080.png,data/processed/masks/19_373961_215080.png
+19_373968_215037,Sector 7-8,data/raw/imagery/19_373968_215037.png,data/processed/masks/19_373968_215037.png
+19_373953_215074,Sector 22,data/raw/imagery/19_373953_215074.png,data/processed/masks/19_373953_215074.png
+19_373972_215067,Sector 22,data/raw/imagery/19_373972_215067.png,data/processed/masks/19_373972_215067.png
+19_373976_215033,Sector 7-8,data/raw/imagery/19_373976_215033.png,data/processed/masks/19_373976_215033.png
+19_373960_215039,Sector 7-8,data/raw/imagery/19_373960_215039.png,data/processed/masks/19_373960_215039.png
+19_373960_215072,Sector 22,data/raw/imagery/19_373960_215072.png,data/processed/masks/19_373960_215072.png
+19_373951_215082,Sector 22,data/raw/imagery/19_373951_215082.png,data/processed/masks/19_373951_215082.png
+19_373959_215044,Sector 7-8,data/raw/imagery/19_373959_215044.png,data/processed/masks/19_373959_215044.png
+19_373970_215076,Sector 22,data/raw/imagery/19_373970_215076.png,data/processed/masks/19_373970_215076.png
+19_373953_215077,Sector 22,data/raw/imagery/19_373953_215077.png,data/processed/masks/19_373953_215077.png
+19_373976_215080,Sector 22,data/raw/imagery/19_373976_215080.png,data/processed/masks/19_373976_215080.png
+19_373983_215045,Sector 7-8,data/raw/imagery/19_373983_215045.png,data/processed/masks/19_373983_215045.png
+19_373959_215076,Sector 22,data/raw/imagery/19_373959_215076.png,data/processed/masks/19_373959_215076.png
+19_373970_215066,Sector 22,data/raw/imagery/19_373970_215066.png,data/processed/masks/19_373970_215066.png
+19_373887_215124,General,data/raw/imagery/19_373887_215124.png,data/processed/masks/19_373887_215124.png
+19_373985_215043,Sector 7-8,data/raw/imagery/19_373985_215043.png,data/processed/masks/19_373985_215043.png
+19_373966_215081,Sector 22,data/raw/imagery/19_373966_215081.png,data/processed/masks/19_373966_215081.png
+19_373964_215030,Sector 7-8,data/raw/imagery/19_373964_215030.png,data/processed/masks/19_373964_215030.png
+19_373977_215045,Sector 7-8,data/raw/imagery/19_373977_215045.png,data/processed/masks/19_373977_215045.png
+19_373889_215103,General,data/raw/imagery/19_373889_215103.png,data/processed/masks/19_373889_215103.png
+19_373958_215069,Sector 22,data/raw/imagery/19_373958_215069.png,data/processed/masks/19_373958_215069.png
+19_373953_215066,Sector 22,data/raw/imagery/19_373953_215066.png,data/processed/masks/19_373953_215066.png
+19_373970_215029,Sector 7-8,data/raw/imagery/19_373970_215029.png,data/processed/masks/19_373970_215029.png
+19_373973_215044,Sector 7-8,data/raw/imagery/19_373973_215044.png,data/processed/masks/19_373973_215044.png
+19_373967_215034,Sector 7-8,data/raw/imagery/19_373967_215034.png,data/processed/masks/19_373967_215034.png
+19_373970_215037,Sector 7-8,data/raw/imagery/19_373970_215037.png,data/processed/masks/19_373970_215037.png
+19_373956_215075,Sector 22,data/raw/imagery/19_373956_215075.png,data/processed/masks/19_373956_215075.png
+19_373974_215071,Sector 22,data/raw/imagery/19_373974_215071.png,data/processed/masks/19_373974_215071.png
+19_373942_215043,General,data/raw/imagery/19_373942_215043.png,data/processed/masks/19_373942_215043.png
+19_373963_215042,Sector 7-8,data/raw/imagery/19_373963_215042.png,data/processed/masks/19_373963_215042.png
+19_373959_215080,Sector 22,data/raw/imagery/19_373959_215080.png,data/processed/masks/19_373959_215080.png
+19_373974_215070,Sector 22,data/raw/imagery/19_373974_215070.png,data/processed/masks/19_373974_215070.png
+19_373962_215060,Sector 22,data/raw/imagery/19_373962_215060.png,data/processed/masks/19_373962_215060.png
+19_373960_215084,Sector 22,data/raw/imagery/19_373960_215084.png,data/processed/masks/19_373960_215084.png
+19_373960_215061,Sector 22,data/raw/imagery/19_373960_215061.png,data/processed/masks/19_373960_215061.png
+19_373978_215044,Sector 7-8,data/raw/imagery/19_373978_215044.png,data/processed/masks/19_373978_215044.png
+19_373956_215083,Sector 22,data/raw/imagery/19_373956_215083.png,data/processed/masks/19_373956_215083.png
+19_373976_215070,Sector 22,data/raw/imagery/19_373976_215070.png,data/processed/masks/19_373976_215070.png
+19_373970_215082,Sector 22,data/raw/imagery/19_373970_215082.png,data/processed/masks/19_373970_215082.png
+19_373964_215041,Sector 7-8,data/raw/imagery/19_373964_215041.png,data/processed/masks/19_373964_215041.png
+19_373982_215028,Sector 7-8,data/raw/imagery/19_373982_215028.png,data/processed/masks/19_373982_215028.png
+19_373971_215081,Sector 22,data/raw/imagery/19_373971_215081.png,data/processed/masks/19_373971_215081.png
+19_373909_215105,General,data/raw/imagery/19_373909_215105.png,data/processed/masks/19_373909_215105.png
+19_373958_215074,Sector 22,data/raw/imagery/19_373958_215074.png,data/processed/masks/19_373958_215074.png
+19_373949_215072,Sector 22,data/raw/imagery/19_373949_215072.png,data/processed/masks/19_373949_215072.png
+19_373951_215062,Sector 22,data/raw/imagery/19_373951_215062.png,data/processed/masks/19_373951_215062.png
+19_373955_215072,Sector 22,data/raw/imagery/19_373955_215072.png,data/processed/masks/19_373955_215072.png
+19_373962_215084,Sector 22,data/raw/imagery/19_373962_215084.png,data/processed/masks/19_373962_215084.png
+19_373983_215048,Sector 7-8,data/raw/imagery/19_373983_215048.png,data/processed/masks/19_373983_215048.png
+19_373959_215063,Sector 22,data/raw/imagery/19_373959_215063.png,data/processed/masks/19_373959_215063.png
+19_373971_215062,Sector 22,data/raw/imagery/19_373971_215062.png,data/processed/masks/19_373971_215062.png
+19_373966_215079,Sector 22,data/raw/imagery/19_373966_215079.png,data/processed/masks/19_373966_215079.png
+19_373974_215072,Sector 22,data/raw/imagery/19_373974_215072.png,data/processed/masks/19_373974_215072.png
+19_374080_215137,General,data/raw/imagery/19_374080_215137.png,data/processed/masks/19_374080_215137.png
+19_373954_215076,Sector 22,data/raw/imagery/19_373954_215076.png,data/processed/masks/19_373954_215076.png
+19_374070_215117,General,data/raw/imagery/19_374070_215117.png,data/processed/masks/19_374070_215117.png
+19_373962_215037,Sector 7-8,data/raw/imagery/19_373962_215037.png,data/processed/masks/19_373962_215037.png
+19_373952_215080,Sector 22,data/raw/imagery/19_373952_215080.png,data/processed/masks/19_373952_215080.png
+19_373979_215033,Sector 7-8,data/raw/imagery/19_373979_215033.png,data/processed/masks/19_373979_215033.png
+19_373979_215035,Sector 7-8,data/raw/imagery/19_373979_215035.png,data/processed/masks/19_373979_215035.png
+19_373976_215050,Sector 7-8,data/raw/imagery/19_373976_215050.png,data/processed/masks/19_373976_215050.png
+19_373958_215071,Sector 22,data/raw/imagery/19_373958_215071.png,data/processed/masks/19_373958_215071.png
+19_373967_215030,Sector 7-8,data/raw/imagery/19_373967_215030.png,data/processed/masks/19_373967_215030.png
+19_373976_215081,Sector 22,data/raw/imagery/19_373976_215081.png,data/processed/masks/19_373976_215081.png
+19_373977_215046,Sector 7-8,data/raw/imagery/19_373977_215046.png,data/processed/masks/19_373977_215046.png
+19_373958_215043,Sector 7-8,data/raw/imagery/19_373958_215043.png,data/processed/masks/19_373958_215043.png
+19_373976_215062,Sector 22,data/raw/imagery/19_373976_215062.png,data/processed/masks/19_373976_215062.png
+19_373972_215080,Sector 22,data/raw/imagery/19_373972_215080.png,data/processed/masks/19_373972_215080.png
+19_373969_215083,Sector 22,data/raw/imagery/19_373969_215083.png,data/processed/masks/19_373969_215083.png
+19_373954_215075,Sector 22,data/raw/imagery/19_373954_215075.png,data/processed/masks/19_373954_215075.png
+19_373958_215039,Sector 7-8,data/raw/imagery/19_373958_215039.png,data/processed/masks/19_373958_215039.png
+19_373965_215082,Sector 22,data/raw/imagery/19_373965_215082.png,data/processed/masks/19_373965_215082.png
+19_373968_215068,Sector 22,data/raw/imagery/19_373968_215068.png,data/processed/masks/19_373968_215068.png
+19_373986_215049,Sector 7-8,data/raw/imagery/19_373986_215049.png,data/processed/masks/19_373986_215049.png
+19_374022_215170,General,data/raw/imagery/19_374022_215170.png,data/processed/masks/19_374022_215170.png
+19_373968_215061,Sector 22,data/raw/imagery/19_373968_215061.png,data/processed/masks/19_373968_215061.png
+19_373917_215174,General,data/raw/imagery/19_373917_215174.png,data/processed/masks/19_373917_215174.png
+19_373974_215069,Sector 22,data/raw/imagery/19_373974_215069.png,data/processed/masks/19_373974_215069.png
+19_373973_215071,Sector 22,data/raw/imagery/19_373973_215071.png,data/processed/masks/19_373973_215071.png
+19_373949_215068,Sector 22,data/raw/imagery/19_373949_215068.png,data/processed/masks/19_373949_215068.png
+19_373968_215033,Sector 7-8,data/raw/imagery/19_373968_215033.png,data/processed/masks/19_373968_215033.png
+19_373982_215030,Sector 7-8,data/raw/imagery/19_373982_215030.png,data/processed/masks/19_373982_215030.png
+19_373958_215081,Sector 22,data/raw/imagery/19_373958_215081.png,data/processed/masks/19_373958_215081.png
+19_373963_215083,Sector 22,data/raw/imagery/19_373963_215083.png,data/processed/masks/19_373963_215083.png
+19_374010_215076,General,data/raw/imagery/19_374010_215076.png,data/processed/masks/19_374010_215076.png
+19_373964_215060,Sector 22,data/raw/imagery/19_373964_215060.png,data/processed/masks/19_373964_215060.png
+19_374023_215169,General,data/raw/imagery/19_374023_215169.png,data/processed/masks/19_374023_215169.png
+19_373965_215035,Sector 7-8,data/raw/imagery/19_373965_215035.png,data/processed/masks/19_373965_215035.png
+19_373975_215032,Sector 7-8,data/raw/imagery/19_373975_215032.png,data/processed/masks/19_373975_215032.png
+19_373972_215031,Sector 7-8,data/raw/imagery/19_373972_215031.png,data/processed/masks/19_373972_215031.png
+19_373951_215078,Sector 22,data/raw/imagery/19_373951_215078.png,data/processed/masks/19_373951_215078.png
+19_373965_215029,Sector 7-8,data/raw/imagery/19_373965_215029.png,data/processed/masks/19_373965_215029.png
+19_373973_215037,Sector 7-8,data/raw/imagery/19_373973_215037.png,data/processed/masks/19_373973_215037.png
+19_373953_215065,Sector 22,data/raw/imagery/19_373953_215065.png,data/processed/masks/19_373953_215065.png
+19_374069_215152,General,data/raw/imagery/19_374069_215152.png,data/processed/masks/19_374069_215152.png
+19_373950_215073,Sector 22,data/raw/imagery/19_373950_215073.png,data/processed/masks/19_373950_215073.png
+19_373974_215030,Sector 7-8,data/raw/imagery/19_373974_215030.png,data/processed/masks/19_373974_215030.png
+19_373958_215040,Sector 7-8,data/raw/imagery/19_373958_215040.png,data/processed/masks/19_373958_215040.png
+19_373952_215081,Sector 22,data/raw/imagery/19_373952_215081.png,data/processed/masks/19_373952_215081.png
+19_373973_215083,Sector 22,data/raw/imagery/19_373973_215083.png,data/processed/masks/19_373973_215083.png
+19_373961_215065,Sector 22,data/raw/imagery/19_373961_215065.png,data/processed/masks/19_373961_215065.png
+19_373958_215061,Sector 22,data/raw/imagery/19_373958_215061.png,data/processed/masks/19_373958_215061.png
+19_373857_215018,General,data/raw/imagery/19_373857_215018.png,data/processed/masks/19_373857_215018.png
+19_373950_215080,Sector 22,data/raw/imagery/19_373950_215080.png,data/processed/masks/19_373950_215080.png
+19_373976_215049,Sector 7-8,data/raw/imagery/19_373976_215049.png,data/processed/masks/19_373976_215049.png
+19_373956_215068,Sector 22,data/raw/imagery/19_373956_215068.png,data/processed/masks/19_373956_215068.png
+19_373956_215084,Sector 22,data/raw/imagery/19_373956_215084.png,data/processed/masks/19_373956_215084.png
+19_373973_215034,Sector 7-8,data/raw/imagery/19_373973_215034.png,data/processed/masks/19_373973_215034.png
+19_373956_215077,Sector 22,data/raw/imagery/19_373956_215077.png,data/processed/masks/19_373956_215077.png
+19_373961_215040,Sector 7-8,data/raw/imagery/19_373961_215040.png,data/processed/masks/19_373961_215040.png
+19_373972_215037,Sector 7-8,data/raw/imagery/19_373972_215037.png,data/processed/masks/19_373972_215037.png
+19_373970_215072,Sector 22,data/raw/imagery/19_373970_215072.png,data/processed/masks/19_373970_215072.png
+19_373959_215070,Sector 22,data/raw/imagery/19_373959_215070.png,data/processed/masks/19_373959_215070.png
+19_373973_215061,Sector 22,data/raw/imagery/19_373973_215061.png,data/processed/masks/19_373973_215061.png
+19_373960_215037,Sector 7-8,data/raw/imagery/19_373960_215037.png,data/processed/masks/19_373960_215037.png
+19_373957_215042,Sector 7-8,data/raw/imagery/19_373957_215042.png,data/processed/masks/19_373957_215042.png
+19_373972_215029,Sector 7-8,data/raw/imagery/19_373972_215029.png,data/processed/masks/19_373972_215029.png
+19_373950_215068,Sector 22,data/raw/imagery/19_373950_215068.png,data/processed/masks/19_373950_215068.png
+19_373957_215076,Sector 22,data/raw/imagery/19_373957_215076.png,data/processed/masks/19_373957_215076.png
+19_373963_215077,Sector 22,data/raw/imagery/19_373963_215077.png,data/processed/masks/19_373963_215077.png
+19_373965_215030,Sector 7-8,data/raw/imagery/19_373965_215030.png,data/processed/masks/19_373965_215030.png
+19_373975_215046,Sector 7-8,data/raw/imagery/19_373975_215046.png,data/processed/masks/19_373975_215046.png
+19_373976_215051,Sector 7-8,data/raw/imagery/19_373976_215051.png,data/processed/masks/19_373976_215051.png
+19_373985_215050,Sector 7-8,data/raw/imagery/19_373985_215050.png,data/processed/masks/19_373985_215050.png
+19_373951_215065,Sector 22,data/raw/imagery/19_373951_215065.png,data/processed/masks/19_373951_215065.png
+19_373980_215036,Sector 7-8,data/raw/imagery/19_373980_215036.png,data/processed/masks/19_373980_215036.png
+19_373961_215074,Sector 22,data/raw/imagery/19_373961_215074.png,data/processed/masks/19_373961_215074.png
+19_373980_215044,Sector 7-8,data/raw/imagery/19_373980_215044.png,data/processed/masks/19_373980_215044.png
+19_373974_215033,Sector 7-8,data/raw/imagery/19_373974_215033.png,data/processed/masks/19_373974_215033.png
+19_373959_215078,Sector 22,data/raw/imagery/19_373959_215078.png,data/processed/masks/19_373959_215078.png
+19_373977_215074,Sector 22,data/raw/imagery/19_373977_215074.png,data/processed/masks/19_373977_215074.png
+19_373964_215038,Sector 7-8,data/raw/imagery/19_373964_215038.png,data/processed/masks/19_373964_215038.png
+19_373972_215035,Sector 7-8,data/raw/imagery/19_373972_215035.png,data/processed/masks/19_373972_215035.png
+19_373973_215078,Sector 22,data/raw/imagery/19_373973_215078.png,data/processed/masks/19_373973_215078.png
+19_373959_215040,Sector 7-8,data/raw/imagery/19_373959_215040.png,data/processed/masks/19_373959_215040.png
+19_373948_215081,Sector 22,data/raw/imagery/19_373948_215081.png,data/processed/masks/19_373948_215081.png
+19_373979_215043,Sector 7-8,data/raw/imagery/19_373979_215043.png,data/processed/masks/19_373979_215043.png
+19_373968_215081,Sector 22,data/raw/imagery/19_373968_215081.png,data/processed/masks/19_373968_215081.png
+19_373971_215063,Sector 22,data/raw/imagery/19_373971_215063.png,data/processed/masks/19_373971_215063.png
+19_373961_215075,Sector 22,data/raw/imagery/19_373961_215075.png,data/processed/masks/19_373961_215075.png
+19_373951_215063,Sector 22,data/raw/imagery/19_373951_215063.png,data/processed/masks/19_373951_215063.png
+19_373995_215064,General,data/raw/imagery/19_373995_215064.png,data/processed/masks/19_373995_215064.png
+19_373974_215073,Sector 22,data/raw/imagery/19_373974_215073.png,data/processed/masks/19_373974_215073.png
+19_373958_215065,Sector 22,data/raw/imagery/19_373958_215065.png,data/processed/masks/19_373958_215065.png
+19_373958_215042,Sector 7-8,data/raw/imagery/19_373958_215042.png,data/processed/masks/19_373958_215042.png
+19_373969_215074,Sector 22,data/raw/imagery/19_373969_215074.png,data/processed/masks/19_373969_215074.png
+19_373972_215034,Sector 7-8,data/raw/imagery/19_373972_215034.png,data/processed/masks/19_373972_215034.png
+19_373961_215071,Sector 22,data/raw/imagery/19_373961_215071.png,data/processed/masks/19_373961_215071.png
+19_373962_215082,Sector 22,data/raw/imagery/19_373962_215082.png,data/processed/masks/19_373962_215082.png
+19_373958_215033,Sector 7-8,data/raw/imagery/19_373958_215033.png,data/processed/masks/19_373958_215033.png
+19_373975_215065,Sector 22,data/raw/imagery/19_373975_215065.png,data/processed/masks/19_373975_215065.png
+19_373957_215038,Sector 7-8,data/raw/imagery/19_373957_215038.png,data/processed/masks/19_373957_215038.png
+19_373960_215041,Sector 7-8,data/raw/imagery/19_373960_215041.png,data/processed/masks/19_373960_215041.png
+19_373985_215047,Sector 7-8,data/raw/imagery/19_373985_215047.png,data/processed/masks/19_373985_215047.png
+19_373978_215031,Sector 7-8,data/raw/imagery/19_373978_215031.png,data/processed/masks/19_373978_215031.png
+19_373981_215052,Sector 7-8,data/raw/imagery/19_373981_215052.png,data/processed/masks/19_373981_215052.png
+19_373973_215030,Sector 7-8,data/raw/imagery/19_373973_215030.png,data/processed/masks/19_373973_215030.png
+19_373966_215061,Sector 22,data/raw/imagery/19_373966_215061.png,data/processed/masks/19_373966_215061.png
+19_373949_215083,Sector 22,data/raw/imagery/19_373949_215083.png,data/processed/masks/19_373949_215083.png
+19_373952_215060,Sector 22,data/raw/imagery/19_373952_215060.png,data/processed/masks/19_373952_215060.png
+19_373956_215073,Sector 22,data/raw/imagery/19_373956_215073.png,data/processed/masks/19_373956_215073.png
+19_374012_215003,General,data/raw/imagery/19_374012_215003.png,data/processed/masks/19_374012_215003.png
+19_374078_215149,General,data/raw/imagery/19_374078_215149.png,data/processed/masks/19_374078_215149.png
+19_373956_215080,Sector 22,data/raw/imagery/19_373956_215080.png,data/processed/masks/19_373956_215080.png
+19_373985_215038,Sector 7-8,data/raw/imagery/19_373985_215038.png,data/processed/masks/19_373985_215038.png
+19_373977_215084,Sector 22,data/raw/imagery/19_373977_215084.png,data/processed/masks/19_373977_215084.png
+19_373958_215067,Sector 22,data/raw/imagery/19_373958_215067.png,data/processed/masks/19_373958_215067.png
+19_373976_215077,Sector 22,data/raw/imagery/19_373976_215077.png,data/processed/masks/19_373976_215077.png
+19_373974_215074,Sector 22,data/raw/imagery/19_373974_215074.png,data/processed/masks/19_373974_215074.png
+19_373948_215073,Sector 22,data/raw/imagery/19_373948_215073.png,data/processed/masks/19_373948_215073.png
+19_373969_215043,Sector 7-8,data/raw/imagery/19_373969_215043.png,data/processed/masks/19_373969_215043.png
+19_373964_215080,Sector 22,data/raw/imagery/19_373964_215080.png,data/processed/masks/19_373964_215080.png
+19_373963_215066,Sector 22,data/raw/imagery/19_373963_215066.png,data/processed/masks/19_373963_215066.png
+19_373975_215075,Sector 22,data/raw/imagery/19_373975_215075.png,data/processed/masks/19_373975_215075.png
+19_373964_215044,Sector 7-8,data/raw/imagery/19_373964_215044.png,data/processed/masks/19_373964_215044.png
+19_373972_215042,Sector 7-8,data/raw/imagery/19_373972_215042.png,data/processed/masks/19_373972_215042.png
+19_373968_215059,Sector 22,data/raw/imagery/19_373968_215059.png,data/processed/masks/19_373968_215059.png
+19_373956_215076,Sector 22,data/raw/imagery/19_373956_215076.png,data/processed/masks/19_373956_215076.png
+19_373956_215071,Sector 22,data/raw/imagery/19_373956_215071.png,data/processed/masks/19_373956_215071.png
+19_373973_215028,Sector 7-8,data/raw/imagery/19_373973_215028.png,data/processed/masks/19_373973_215028.png
+19_373986_215047,Sector 7-8,data/raw/imagery/19_373986_215047.png,data/processed/masks/19_373986_215047.png
+19_373961_215037,Sector 7-8,data/raw/imagery/19_373961_215037.png,data/processed/masks/19_373961_215037.png
+19_373968_215078,Sector 22,data/raw/imagery/19_373968_215078.png,data/processed/masks/19_373968_215078.png
+19_373955_215073,Sector 22,data/raw/imagery/19_373955_215073.png,data/processed/masks/19_373955_215073.png
+19_373957_215072,Sector 22,data/raw/imagery/19_373957_215072.png,data/processed/masks/19_373957_215072.png
+19_373958_215037,Sector 7-8,data/raw/imagery/19_373958_215037.png,data/processed/masks/19_373958_215037.png
+19_373959_215029,Sector 7-8,data/raw/imagery/19_373959_215029.png,data/processed/masks/19_373959_215029.png
+19_373924_215157,General,data/raw/imagery/19_373924_215157.png,data/processed/masks/19_373924_215157.png
+19_373979_215038,Sector 7-8,data/raw/imagery/19_373979_215038.png,data/processed/masks/19_373979_215038.png
+19_373986_215044,Sector 7-8,data/raw/imagery/19_373986_215044.png,data/processed/masks/19_373986_215044.png
+19_373960_215036,Sector 7-8,data/raw/imagery/19_373960_215036.png,data/processed/masks/19_373960_215036.png
+19_373982_215043,Sector 7-8,data/raw/imagery/19_373982_215043.png,data/processed/masks/19_373982_215043.png
+19_373976_215063,Sector 22,data/raw/imagery/19_373976_215063.png,data/processed/masks/19_373976_215063.png
+19_373988_214988,General,data/raw/imagery/19_373988_214988.png,data/processed/masks/19_373988_214988.png
+19_373975_215067,Sector 22,data/raw/imagery/19_373975_215067.png,data/processed/masks/19_373975_215067.png
+19_373981_215042,Sector 7-8,data/raw/imagery/19_373981_215042.png,data/processed/masks/19_373981_215042.png
+19_373957_215078,Sector 22,data/raw/imagery/19_373957_215078.png,data/processed/masks/19_373957_215078.png
+19_373962_215043,Sector 7-8,data/raw/imagery/19_373962_215043.png,data/processed/masks/19_373962_215043.png
+19_373983_215028,Sector 7-8,data/raw/imagery/19_373983_215028.png,data/processed/masks/19_373983_215028.png
+19_373967_215035,Sector 7-8,data/raw/imagery/19_373967_215035.png,data/processed/masks/19_373967_215035.png
+19_373968_215030,Sector 7-8,data/raw/imagery/19_373968_215030.png,data/processed/masks/19_373968_215030.png
+19_373962_215078,Sector 22,data/raw/imagery/19_373962_215078.png,data/processed/masks/19_373962_215078.png
+19_373960_215076,Sector 22,data/raw/imagery/19_373960_215076.png,data/processed/masks/19_373960_215076.png
+19_373968_215035,Sector 7-8,data/raw/imagery/19_373968_215035.png,data/processed/masks/19_373968_215035.png
+19_373971_215021,General,data/raw/imagery/19_373971_215021.png,data/processed/masks/19_373971_215021.png
+19_373963_215060,Sector 22,data/raw/imagery/19_373963_215060.png,data/processed/masks/19_373963_215060.png
+19_373957_215073,Sector 22,data/raw/imagery/19_373957_215073.png,data/processed/masks/19_373957_215073.png
+19_373976_215066,Sector 22,data/raw/imagery/19_373976_215066.png,data/processed/masks/19_373976_215066.png
+19_373957_215063,Sector 22,data/raw/imagery/19_373957_215063.png,data/processed/masks/19_373957_215063.png
+19_374084_215100,General,data/raw/imagery/19_374084_215100.png,data/processed/masks/19_374084_215100.png
+19_373948_215068,Sector 22,data/raw/imagery/19_373948_215068.png,data/processed/masks/19_373948_215068.png
+19_373950_215062,Sector 22,data/raw/imagery/19_373950_215062.png,data/processed/masks/19_373950_215062.png
+19_373969_215080,Sector 22,data/raw/imagery/19_373969_215080.png,data/processed/masks/19_373969_215080.png
+19_373861_215121,General,data/raw/imagery/19_373861_215121.png,data/processed/masks/19_373861_215121.png
+19_373982_215051,Sector 7-8,data/raw/imagery/19_373982_215051.png,data/processed/masks/19_373982_215051.png
+19_373951_215079,Sector 22,data/raw/imagery/19_373951_215079.png,data/processed/masks/19_373951_215079.png
+19_373965_215031,Sector 7-8,data/raw/imagery/19_373965_215031.png,data/processed/masks/19_373965_215031.png
+19_373984_215043,Sector 7-8,data/raw/imagery/19_373984_215043.png,data/processed/masks/19_373984_215043.png
+19_373955_215067,Sector 22,data/raw/imagery/19_373955_215067.png,data/processed/masks/19_373955_215067.png
+19_373973_215065,Sector 22,data/raw/imagery/19_373973_215065.png,data/processed/masks/19_373973_215065.png
+19_374052_215168,General,data/raw/imagery/19_374052_215168.png,data/processed/masks/19_374052_215168.png
+19_373967_215036,Sector 7-8,data/raw/imagery/19_373967_215036.png,data/processed/masks/19_373967_215036.png
+19_373977_215082,Sector 22,data/raw/imagery/19_373977_215082.png,data/processed/masks/19_373977_215082.png
+19_373967_215080,Sector 22,data/raw/imagery/19_373967_215080.png,data/processed/masks/19_373967_215080.png
+19_373957_215077,Sector 22,data/raw/imagery/19_373957_215077.png,data/processed/masks/19_373957_215077.png
+19_373958_215044,Sector 7-8,data/raw/imagery/19_373958_215044.png,data/processed/masks/19_373958_215044.png
+19_373950_215071,Sector 22,data/raw/imagery/19_373950_215071.png,data/processed/masks/19_373950_215071.png
+19_373959_215028,Sector 7-8,data/raw/imagery/19_373959_215028.png,data/processed/masks/19_373959_215028.png
+19_373956_215078,Sector 22,data/raw/imagery/19_373956_215078.png,data/processed/masks/19_373956_215078.png
+19_373977_215069,Sector 22,data/raw/imagery/19_373977_215069.png,data/processed/masks/19_373977_215069.png
+19_373969_215068,Sector 22,data/raw/imagery/19_373969_215068.png,data/processed/masks/19_373969_215068.png
+19_373950_215074,Sector 22,data/raw/imagery/19_373950_215074.png,data/processed/masks/19_373950_215074.png
+19_373967_215066,Sector 22,data/raw/imagery/19_373967_215066.png,data/processed/masks/19_373967_215066.png
+19_373981_215029,Sector 7-8,data/raw/imagery/19_373981_215029.png,data/processed/masks/19_373981_215029.png
+19_373964_215029,Sector 7-8,data/raw/imagery/19_373964_215029.png,data/processed/masks/19_373964_215029.png
+19_373950_215072,Sector 22,data/raw/imagery/19_373950_215072.png,data/processed/masks/19_373950_215072.png
+19_374061_215209,General,data/raw/imagery/19_374061_215209.png,data/processed/masks/19_374061_215209.png
+19_373977_215071,Sector 22,data/raw/imagery/19_373977_215071.png,data/processed/masks/19_373977_215071.png
+19_373953_215080,Sector 22,data/raw/imagery/19_373953_215080.png,data/processed/masks/19_373953_215080.png
+19_373964_215072,Sector 22,data/raw/imagery/19_373964_215072.png,data/processed/masks/19_373964_215072.png
+19_373955_215081,Sector 22,data/raw/imagery/19_373955_215081.png,data/processed/masks/19_373955_215081.png
+19_373957_215068,Sector 22,data/raw/imagery/19_373957_215068.png,data/processed/masks/19_373957_215068.png
+19_373976_215072,Sector 22,data/raw/imagery/19_373976_215072.png,data/processed/masks/19_373976_215072.png
+19_373959_215074,Sector 22,data/raw/imagery/19_373959_215074.png,data/processed/masks/19_373959_215074.png
+19_373957_215070,Sector 22,data/raw/imagery/19_373957_215070.png,data/processed/masks/19_373957_215070.png
+19_373965_215032,Sector 7-8,data/raw/imagery/19_373965_215032.png,data/processed/masks/19_373965_215032.png
+19_373957_215028,Sector 7-8,data/raw/imagery/19_373957_215028.png,data/processed/masks/19_373957_215028.png
+19_373984_215039,Sector 7-8,data/raw/imagery/19_373984_215039.png,data/processed/masks/19_373984_215039.png
+19_373970_215033,Sector 7-8,data/raw/imagery/19_373970_215033.png,data/processed/masks/19_373970_215033.png
+19_373963_215076,Sector 22,data/raw/imagery/19_373963_215076.png,data/processed/masks/19_373963_215076.png
+19_373985_215041,Sector 7-8,data/raw/imagery/19_373985_215041.png,data/processed/masks/19_373985_215041.png
+19_373968_215044,Sector 7-8,data/raw/imagery/19_373968_215044.png,data/processed/masks/19_373968_215044.png
+19_373983_215042,Sector 7-8,data/raw/imagery/19_373983_215042.png,data/processed/masks/19_373983_215042.png
+19_373969_215075,Sector 22,data/raw/imagery/19_373969_215075.png,data/processed/masks/19_373969_215075.png
+19_373968_215034,Sector 7-8,data/raw/imagery/19_373968_215034.png,data/processed/masks/19_373968_215034.png
+19_373971_215042,Sector 7-8,data/raw/imagery/19_373971_215042.png,data/processed/masks/19_373971_215042.png
+19_373965_215059,Sector 22,data/raw/imagery/19_373965_215059.png,data/processed/masks/19_373965_215059.png
+19_373974_215035,Sector 7-8,data/raw/imagery/19_373974_215035.png,data/processed/masks/19_373974_215035.png
+19_373968_215073,Sector 22,data/raw/imagery/19_373968_215073.png,data/processed/masks/19_373968_215073.png
+19_373965_215079,Sector 22,data/raw/imagery/19_373965_215079.png,data/processed/masks/19_373965_215079.png
+19_373968_215067,Sector 22,data/raw/imagery/19_373968_215067.png,data/processed/masks/19_373968_215067.png
+19_373977_215061,Sector 22,data/raw/imagery/19_373977_215061.png,data/processed/masks/19_373977_215061.png
+19_373961_215067,Sector 22,data/raw/imagery/19_373961_215067.png,data/processed/masks/19_373961_215067.png
+19_373965_215068,Sector 22,data/raw/imagery/19_373965_215068.png,data/processed/masks/19_373965_215068.png
+19_374052_215202,General,data/raw/imagery/19_374052_215202.png,data/processed/masks/19_374052_215202.png
+19_373957_215066,Sector 22,data/raw/imagery/19_373957_215066.png,data/processed/masks/19_373957_215066.png
+19_373972_215064,Sector 22,data/raw/imagery/19_373972_215064.png,data/processed/masks/19_373972_215064.png
+19_373977_215081,Sector 22,data/raw/imagery/19_373977_215081.png,data/processed/masks/19_373977_215081.png
+19_373972_215077,Sector 22,data/raw/imagery/19_373972_215077.png,data/processed/masks/19_373972_215077.png
+19_373976_215061,Sector 22,data/raw/imagery/19_373976_215061.png,data/processed/masks/19_373976_215061.png
+19_373985_215046,Sector 7-8,data/raw/imagery/19_373985_215046.png,data/processed/masks/19_373985_215046.png
+19_373900_215147,General,data/raw/imagery/19_373900_215147.png,data/processed/masks/19_373900_215147.png
+19_373888_215173,General,data/raw/imagery/19_373888_215173.png,data/processed/masks/19_373888_215173.png
+19_373954_215074,Sector 22,data/raw/imagery/19_373954_215074.png,data/processed/masks/19_373954_215074.png
+19_373968_215076,Sector 22,data/raw/imagery/19_373968_215076.png,data/processed/masks/19_373968_215076.png
+19_373984_215033,Sector 7-8,data/raw/imagery/19_373984_215033.png,data/processed/masks/19_373984_215033.png
+19_373950_215069,Sector 22,data/raw/imagery/19_373950_215069.png,data/processed/masks/19_373950_215069.png
+19_373957_215040,Sector 7-8,data/raw/imagery/19_373957_215040.png,data/processed/masks/19_373957_215040.png
+19_373978_215043,Sector 7-8,data/raw/imagery/19_373978_215043.png,data/processed/masks/19_373978_215043.png
+19_373964_215074,Sector 22,data/raw/imagery/19_373964_215074.png,data/processed/masks/19_373964_215074.png
+19_373961_215066,Sector 22,data/raw/imagery/19_373961_215066.png,data/processed/masks/19_373961_215066.png
+19_373982_215052,Sector 7-8,data/raw/imagery/19_373982_215052.png,data/processed/masks/19_373982_215052.png
+19_373977_215077,Sector 22,data/raw/imagery/19_373977_215077.png,data/processed/masks/19_373977_215077.png
+19_374081_215161,General,data/raw/imagery/19_374081_215161.png,data/processed/masks/19_374081_215161.png
+19_373984_215029,Sector 7-8,data/raw/imagery/19_373984_215029.png,data/processed/masks/19_373984_215029.png
+19_373852_215092,General,data/raw/imagery/19_373852_215092.png,data/processed/masks/19_373852_215092.png
+19_373949_215070,Sector 22,data/raw/imagery/19_373949_215070.png,data/processed/masks/19_373949_215070.png
+19_373973_215064,Sector 22,data/raw/imagery/19_373973_215064.png,data/processed/masks/19_373973_215064.png
+19_373980_215033,Sector 7-8,data/raw/imagery/19_373980_215033.png,data/processed/masks/19_373980_215033.png
+19_373980_215050,Sector 7-8,data/raw/imagery/19_373980_215050.png,data/processed/masks/19_373980_215050.png
+19_373976_215037,Sector 7-8,data/raw/imagery/19_373976_215037.png,data/processed/masks/19_373976_215037.png
+19_373966_215062,Sector 22,data/raw/imagery/19_373966_215062.png,data/processed/masks/19_373966_215062.png
+19_373973_215079,Sector 22,data/raw/imagery/19_373973_215079.png,data/processed/masks/19_373973_215079.png
+19_373958_215080,Sector 22,data/raw/imagery/19_373958_215080.png,data/processed/masks/19_373958_215080.png
+19_373977_215051,Sector 7-8,data/raw/imagery/19_373977_215051.png,data/processed/masks/19_373977_215051.png
+19_373960_215079,Sector 22,data/raw/imagery/19_373960_215079.png,data/processed/masks/19_373960_215079.png
+19_373977_215075,Sector 22,data/raw/imagery/19_373977_215075.png,data/processed/masks/19_373977_215075.png
+19_373957_215044,Sector 7-8,data/raw/imagery/19_373957_215044.png,data/processed/masks/19_373957_215044.png
+19_373960_215062,Sector 22,data/raw/imagery/19_373960_215062.png,data/processed/masks/19_373960_215062.png
+19_373960_215065,Sector 22,data/raw/imagery/19_373960_215065.png,data/processed/masks/19_373960_215065.png
+19_374085_215117,General,data/raw/imagery/19_374085_215117.png,data/processed/masks/19_374085_215117.png
+19_373957_215064,Sector 22,data/raw/imagery/19_373957_215064.png,data/processed/masks/19_373957_215064.png
+19_373971_215071,Sector 22,data/raw/imagery/19_373971_215071.png,data/processed/masks/19_373971_215071.png
+19_373976_215082,Sector 22,data/raw/imagery/19_373976_215082.png,data/processed/masks/19_373976_215082.png
+19_373853_215149,General,data/raw/imagery/19_373853_215149.png,data/processed/masks/19_373853_215149.png
+19_373949_215059,Sector 22,data/raw/imagery/19_373949_215059.png,data/processed/masks/19_373949_215059.png
+19_373960_215033,Sector 7-8,data/raw/imagery/19_373960_215033.png,data/processed/masks/19_373960_215033.png
+19_373970_215060,Sector 22,data/raw/imagery/19_373970_215060.png,data/processed/masks/19_373970_215060.png
+19_374030_215189,General,data/raw/imagery/19_374030_215189.png,data/processed/masks/19_374030_215189.png
+19_373965_215075,Sector 22,data/raw/imagery/19_373965_215075.png,data/processed/masks/19_373965_215075.png
+19_373973_215077,Sector 22,data/raw/imagery/19_373973_215077.png,data/processed/masks/19_373973_215077.png
+19_373960_215032,Sector 7-8,data/raw/imagery/19_373960_215032.png,data/processed/masks/19_373960_215032.png
+19_373975_215084,Sector 22,data/raw/imagery/19_373975_215084.png,data/processed/masks/19_373975_215084.png
+19_373969_215063,Sector 22,data/raw/imagery/19_373969_215063.png,data/processed/masks/19_373969_215063.png
+19_373966_215030,Sector 7-8,data/raw/imagery/19_373966_215030.png,data/processed/masks/19_373966_215030.png
+19_373977_215072,Sector 22,data/raw/imagery/19_373977_215072.png,data/processed/masks/19_373977_215072.png
+19_373976_215035,Sector 7-8,data/raw/imagery/19_373976_215035.png,data/processed/masks/19_373976_215035.png
+19_373953_215083,Sector 22,data/raw/imagery/19_373953_215083.png,data/processed/masks/19_373953_215083.png
+19_373978_215036,Sector 7-8,data/raw/imagery/19_373978_215036.png,data/processed/masks/19_373978_215036.png
+19_373967_215072,Sector 22,data/raw/imagery/19_373967_215072.png,data/processed/masks/19_373967_215072.png
+19_374068_215068,General,data/raw/imagery/19_374068_215068.png,data/processed/masks/19_374068_215068.png
+19_373970_215065,Sector 22,data/raw/imagery/19_373970_215065.png,data/processed/masks/19_373970_215065.png
+19_373935_215100,General,data/raw/imagery/19_373935_215100.png,data/processed/masks/19_373935_215100.png
+19_373982_215050,Sector 7-8,data/raw/imagery/19_373982_215050.png,data/processed/masks/19_373982_215050.png
+19_373970_215071,Sector 22,data/raw/imagery/19_373970_215071.png,data/processed/masks/19_373970_215071.png
+19_373953_215067,Sector 22,data/raw/imagery/19_373953_215067.png,data/processed/masks/19_373953_215067.png
+19_373982_215042,Sector 7-8,data/raw/imagery/19_373982_215042.png,data/processed/masks/19_373982_215042.png
+19_373964_215078,Sector 22,data/raw/imagery/19_373964_215078.png,data/processed/masks/19_373964_215078.png
+19_373972_215082,Sector 22,data/raw/imagery/19_373972_215082.png,data/processed/masks/19_373972_215082.png
+19_374004_215115,General,data/raw/imagery/19_374004_215115.png,data/processed/masks/19_374004_215115.png
+19_374071_215162,General,data/raw/imagery/19_374071_215162.png,data/processed/masks/19_374071_215162.png
+19_374025_215015,General,data/raw/imagery/19_374025_215015.png,data/processed/masks/19_374025_215015.png
+19_373969_215030,Sector 7-8,data/raw/imagery/19_373969_215030.png,data/processed/masks/19_373969_215030.png
+19_373963_215067,Sector 22,data/raw/imagery/19_373963_215067.png,data/processed/masks/19_373963_215067.png
+19_373983_215034,Sector 7-8,data/raw/imagery/19_373983_215034.png,data/processed/masks/19_373983_215034.png
+19_373971_215077,Sector 22,data/raw/imagery/19_373971_215077.png,data/processed/masks/19_373971_215077.png
+19_373985_215049,Sector 7-8,data/raw/imagery/19_373985_215049.png,data/processed/masks/19_373985_215049.png
+19_373975_215064,Sector 22,data/raw/imagery/19_373975_215064.png,data/processed/masks/19_373975_215064.png
+19_373955_215080,Sector 22,data/raw/imagery/19_373955_215080.png,data/processed/masks/19_373955_215080.png
+19_373964_215084,Sector 22,data/raw/imagery/19_373964_215084.png,data/processed/masks/19_373964_215084.png
+19_373958_215066,Sector 22,data/raw/imagery/19_373958_215066.png,data/processed/masks/19_373958_215066.png
+19_373852_215061,General,data/raw/imagery/19_373852_215061.png,data/processed/masks/19_373852_215061.png
+19_373854_215086,General,data/raw/imagery/19_373854_215086.png,data/processed/masks/19_373854_215086.png
+19_373957_215041,Sector 7-8,data/raw/imagery/19_373957_215041.png,data/processed/masks/19_373957_215041.png
+19_373981_215051,Sector 7-8,data/raw/imagery/19_373981_215051.png,data/processed/masks/19_373981_215051.png
+19_373969_215067,Sector 22,data/raw/imagery/19_373969_215067.png,data/processed/masks/19_373969_215067.png
+19_374065_215148,General,data/raw/imagery/19_374065_215148.png,data/processed/masks/19_374065_215148.png
+19_373953_215071,Sector 22,data/raw/imagery/19_373953_215071.png,data/processed/masks/19_373953_215071.png
+19_373970_215078,Sector 22,data/raw/imagery/19_373970_215078.png,data/processed/masks/19_373970_215078.png
+19_373883_215107,General,data/raw/imagery/19_373883_215107.png,data/processed/masks/19_373883_215107.png
+19_373974_215029,Sector 7-8,data/raw/imagery/19_373974_215029.png,data/processed/masks/19_373974_215029.png
+19_373968_215029,Sector 7-8,data/raw/imagery/19_373968_215029.png,data/processed/masks/19_373968_215029.png
+19_373982_215044,Sector 7-8,data/raw/imagery/19_373982_215044.png,data/processed/masks/19_373982_215044.png
+19_373965_215072,Sector 22,data/raw/imagery/19_373965_215072.png,data/processed/masks/19_373965_215072.png
+19_373967_215037,Sector 7-8,data/raw/imagery/19_373967_215037.png,data/processed/masks/19_373967_215037.png
+19_373967_215070,Sector 22,data/raw/imagery/19_373967_215070.png,data/processed/masks/19_373967_215070.png
+19_373955_215063,Sector 22,data/raw/imagery/19_373955_215063.png,data/processed/masks/19_373955_215063.png
+19_373879_215081,General,data/raw/imagery/19_373879_215081.png,data/processed/masks/19_373879_215081.png
+19_373957_215081,Sector 22,data/raw/imagery/19_373957_215081.png,data/processed/masks/19_373957_215081.png
+19_373909_215096,General,data/raw/imagery/19_373909_215096.png,data/processed/masks/19_373909_215096.png
+19_373949_215065,Sector 22,data/raw/imagery/19_373949_215065.png,data/processed/masks/19_373949_215065.png
+19_373975_215071,Sector 22,data/raw/imagery/19_373975_215071.png,data/processed/masks/19_373975_215071.png
+19_373918_215211,General,data/raw/imagery/19_373918_215211.png,data/processed/masks/19_373918_215211.png
+19_373966_215080,Sector 22,data/raw/imagery/19_373966_215080.png,data/processed/masks/19_373966_215080.png
+19_373953_215069,Sector 22,data/raw/imagery/19_373953_215069.png,data/processed/masks/19_373953_215069.png
+19_373949_215079,Sector 22,data/raw/imagery/19_373949_215079.png,data/processed/masks/19_373949_215079.png
+19_373969_215032,Sector 7-8,data/raw/imagery/19_373969_215032.png,data/processed/masks/19_373969_215032.png
+19_373973_215060,Sector 22,data/raw/imagery/19_373973_215060.png,data/processed/masks/19_373973_215060.png
+19_373945_215185,General,data/raw/imagery/19_373945_215185.png,data/processed/masks/19_373945_215185.png
+19_373966_215039,Sector 7-8,data/raw/imagery/19_373966_215039.png,data/processed/masks/19_373966_215039.png
+19_373985_215042,Sector 7-8,data/raw/imagery/19_373985_215042.png,data/processed/masks/19_373985_215042.png
+19_373908_215156,General,data/raw/imagery/19_373908_215156.png,data/processed/masks/19_373908_215156.png
+19_373975_215073,Sector 22,data/raw/imagery/19_373975_215073.png,data/processed/masks/19_373975_215073.png
+19_373962_215079,Sector 22,data/raw/imagery/19_373962_215079.png,data/processed/masks/19_373962_215079.png
+19_373968_215031,Sector 7-8,data/raw/imagery/19_373968_215031.png,data/processed/masks/19_373968_215031.png
+19_373967_215083,Sector 22,data/raw/imagery/19_373967_215083.png,data/processed/masks/19_373967_215083.png
+19_373966_215068,Sector 22,data/raw/imagery/19_373966_215068.png,data/processed/masks/19_373966_215068.png
+19_373963_215041,Sector 7-8,data/raw/imagery/19_373963_215041.png,data/processed/masks/19_373963_215041.png
+19_373961_215038,Sector 7-8,data/raw/imagery/19_373961_215038.png,data/processed/masks/19_373961_215038.png
+19_373972_215061,Sector 22,data/raw/imagery/19_373972_215061.png,data/processed/masks/19_373972_215061.png
+19_373979_215047,Sector 7-8,data/raw/imagery/19_373979_215047.png,data/processed/masks/19_373979_215047.png
+19_373975_215029,Sector 7-8,data/raw/imagery/19_373975_215029.png,data/processed/masks/19_373975_215029.png
+19_373925_215058,General,data/raw/imagery/19_373925_215058.png,data/processed/masks/19_373925_215058.png
+19_373948_215077,Sector 22,data/raw/imagery/19_373948_215077.png,data/processed/masks/19_373948_215077.png
+19_373964_215069,Sector 22,data/raw/imagery/19_373964_215069.png,data/processed/masks/19_373964_215069.png
+19_373952_215076,Sector 22,data/raw/imagery/19_373952_215076.png,data/processed/masks/19_373952_215076.png
+19_373956_215066,Sector 22,data/raw/imagery/19_373956_215066.png,data/processed/masks/19_373956_215066.png
+19_373958_215062,Sector 22,data/raw/imagery/19_373958_215062.png,data/processed/masks/19_373958_215062.png
+19_373962_215075,Sector 22,data/raw/imagery/19_373962_215075.png,data/processed/masks/19_373962_215075.png
+19_373975_215052,Sector 7-8,data/raw/imagery/19_373975_215052.png,data/processed/masks/19_373975_215052.png
+19_373966_215028,Sector 7-8,data/raw/imagery/19_373966_215028.png,data/processed/masks/19_373966_215028.png
+19_373952_215064,Sector 22,data/raw/imagery/19_373952_215064.png,data/processed/masks/19_373952_215064.png
+19_373949_215069,Sector 22,data/raw/imagery/19_373949_215069.png,data/processed/masks/19_373949_215069.png
+19_373972_215072,Sector 22,data/raw/imagery/19_373972_215072.png,data/processed/masks/19_373972_215072.png
+19_373980_215031,Sector 7-8,data/raw/imagery/19_373980_215031.png,data/processed/masks/19_373980_215031.png
+19_373953_215060,Sector 22,data/raw/imagery/19_373953_215060.png,data/processed/masks/19_373953_215060.png
+19_374081_215167,General,data/raw/imagery/19_374081_215167.png,data/processed/masks/19_374081_215167.png
+19_373975_215082,Sector 22,data/raw/imagery/19_373975_215082.png,data/processed/masks/19_373975_215082.png
+19_373963_215070,Sector 22,data/raw/imagery/19_373963_215070.png,data/processed/masks/19_373963_215070.png
+19_373970_215074,Sector 22,data/raw/imagery/19_373970_215074.png,data/processed/masks/19_373970_215074.png
+19_373975_215066,Sector 22,data/raw/imagery/19_373975_215066.png,data/processed/masks/19_373975_215066.png
+19_373967_215075,Sector 22,data/raw/imagery/19_373967_215075.png,data/processed/masks/19_373967_215075.png
+19_373965_215073,Sector 22,data/raw/imagery/19_373965_215073.png,data/processed/masks/19_373965_215073.png
+19_373952_215065,Sector 22,data/raw/imagery/19_373952_215065.png,data/processed/masks/19_373952_215065.png
+19_373950_215070,Sector 22,data/raw/imagery/19_373950_215070.png,data/processed/masks/19_373950_215070.png
+19_373970_215039,Sector 7-8,data/raw/imagery/19_373970_215039.png,data/processed/masks/19_373970_215039.png
+19_373948_215065,Sector 22,data/raw/imagery/19_373948_215065.png,data/processed/masks/19_373948_215065.png
+19_373977_215067,Sector 22,data/raw/imagery/19_373977_215067.png,data/processed/masks/19_373977_215067.png
+19_373975_215059,Sector 22,data/raw/imagery/19_373975_215059.png,data/processed/masks/19_373975_215059.png
+19_373963_215065,Sector 22,data/raw/imagery/19_373963_215065.png,data/processed/masks/19_373963_215065.png
+19_374037_215116,General,data/raw/imagery/19_374037_215116.png,data/processed/masks/19_374037_215116.png
+19_373961_215069,Sector 22,data/raw/imagery/19_373961_215069.png,data/processed/masks/19_373961_215069.png
+19_373951_215073,Sector 22,data/raw/imagery/19_373951_215073.png,data/processed/masks/19_373951_215073.png
+19_373954_215080,Sector 22,data/raw/imagery/19_373954_215080.png,data/processed/masks/19_373954_215080.png
+19_373957_215037,Sector 7-8,data/raw/imagery/19_373957_215037.png,data/processed/masks/19_373957_215037.png
+19_373974_215068,Sector 22,data/raw/imagery/19_373974_215068.png,data/processed/masks/19_373974_215068.png
+19_373972_215036,Sector 7-8,data/raw/imagery/19_373972_215036.png,data/processed/masks/19_373972_215036.png
+19_373957_215079,Sector 22,data/raw/imagery/19_373957_215079.png,data/processed/masks/19_373957_215079.png
+19_373948_215082,Sector 22,data/raw/imagery/19_373948_215082.png,data/processed/masks/19_373948_215082.png
+19_373978_215037,Sector 7-8,data/raw/imagery/19_373978_215037.png,data/processed/masks/19_373978_215037.png
+19_373969_215071,Sector 22,data/raw/imagery/19_373969_215071.png,data/processed/masks/19_373969_215071.png
+19_373985_215032,Sector 7-8,data/raw/imagery/19_373985_215032.png,data/processed/masks/19_373985_215032.png
+19_373977_215083,Sector 22,data/raw/imagery/19_373977_215083.png,data/processed/masks/19_373977_215083.png
+19_373972_215030,Sector 7-8,data/raw/imagery/19_373972_215030.png,data/processed/masks/19_373972_215030.png
+19_373982_215046,Sector 7-8,data/raw/imagery/19_373982_215046.png,data/processed/masks/19_373982_215046.png
+19_373968_215041,Sector 7-8,data/raw/imagery/19_373968_215041.png,data/processed/masks/19_373968_215041.png
+19_373983_215046,Sector 7-8,data/raw/imagery/19_373983_215046.png,data/processed/masks/19_373983_215046.png
+19_373957_215032,Sector 7-8,data/raw/imagery/19_373957_215032.png,data/processed/masks/19_373957_215032.png
+19_373982_215047,Sector 7-8,data/raw/imagery/19_373982_215047.png,data/processed/masks/19_373982_215047.png
+19_373959_215038,Sector 7-8,data/raw/imagery/19_373959_215038.png,data/processed/masks/19_373959_215038.png
+19_373954_215066,Sector 22,data/raw/imagery/19_373954_215066.png,data/processed/masks/19_373954_215066.png
+19_374101_215073,General,data/raw/imagery/19_374101_215073.png,data/processed/masks/19_374101_215073.png
+19_373972_215078,Sector 22,data/raw/imagery/19_373972_215078.png,data/processed/masks/19_373972_215078.png
+19_373957_215035,Sector 7-8,data/raw/imagery/19_373957_215035.png,data/processed/masks/19_373957_215035.png
+19_373974_215078,Sector 22,data/raw/imagery/19_373974_215078.png,data/processed/masks/19_373974_215078.png
+19_373977_215066,Sector 22,data/raw/imagery/19_373977_215066.png,data/processed/masks/19_373977_215066.png
+19_373954_215081,Sector 22,data/raw/imagery/19_373954_215081.png,data/processed/masks/19_373954_215081.png
+19_373974_215062,Sector 22,data/raw/imagery/19_373974_215062.png,data/processed/masks/19_373974_215062.png
+19_373973_215082,Sector 22,data/raw/imagery/19_373973_215082.png,data/processed/masks/19_373973_215082.png
+19_373945_215029,General,data/raw/imagery/19_373945_215029.png,data/processed/masks/19_373945_215029.png
+19_373948_215079,Sector 22,data/raw/imagery/19_373948_215079.png,data/processed/masks/19_373948_215079.png
+19_373967_215068,Sector 22,data/raw/imagery/19_373967_215068.png,data/processed/masks/19_373967_215068.png
+19_373895_215038,General,data/raw/imagery/19_373895_215038.png,data/processed/masks/19_373895_215038.png
+19_373976_215048,Sector 7-8,data/raw/imagery/19_373976_215048.png,data/processed/masks/19_373976_215048.png
+19_373960_215073,Sector 22,data/raw/imagery/19_373960_215073.png,data/processed/masks/19_373960_215073.png
+19_373960_215070,Sector 22,data/raw/imagery/19_373960_215070.png,data/processed/masks/19_373960_215070.png
+19_373976_215042,Sector 7-8,data/raw/imagery/19_373976_215042.png,data/processed/masks/19_373976_215042.png
+19_373975_215037,Sector 7-8,data/raw/imagery/19_373975_215037.png,data/processed/masks/19_373975_215037.png
+19_373971_215078,Sector 22,data/raw/imagery/19_373971_215078.png,data/processed/masks/19_373971_215078.png
+19_373948_215062,Sector 22,data/raw/imagery/19_373948_215062.png,data/processed/masks/19_373948_215062.png
+19_373948_215069,Sector 22,data/raw/imagery/19_373948_215069.png,data/processed/masks/19_373948_215069.png
+19_373968_215064,Sector 22,data/raw/imagery/19_373968_215064.png,data/processed/masks/19_373968_215064.png
+19_373948_215067,Sector 22,data/raw/imagery/19_373948_215067.png,data/processed/masks/19_373948_215067.png
+19_373960_215083,Sector 22,data/raw/imagery/19_373960_215083.png,data/processed/masks/19_373960_215083.png
+19_373970_215068,Sector 22,data/raw/imagery/19_373970_215068.png,data/processed/masks/19_373970_215068.png
+19_373973_215075,Sector 22,data/raw/imagery/19_373973_215075.png,data/processed/masks/19_373973_215075.png
+19_373960_215059,Sector 22,data/raw/imagery/19_373960_215059.png,data/processed/masks/19_373960_215059.png
+19_373966_215040,Sector 7-8,data/raw/imagery/19_373966_215040.png,data/processed/masks/19_373966_215040.png
+19_373968_215080,Sector 22,data/raw/imagery/19_373968_215080.png,data/processed/masks/19_373968_215080.png
+19_373977_215041,Sector 7-8,data/raw/imagery/19_373977_215041.png,data/processed/masks/19_373977_215041.png
+19_373959_215069,Sector 22,data/raw/imagery/19_373959_215069.png,data/processed/masks/19_373959_215069.png
+19_373980_215051,Sector 7-8,data/raw/imagery/19_373980_215051.png,data/processed/masks/19_373980_215051.png
+19_373980_215042,Sector 7-8,data/raw/imagery/19_373980_215042.png,data/processed/masks/19_373980_215042.png
+19_373977_215050,Sector 7-8,data/raw/imagery/19_373977_215050.png,data/processed/masks/19_373977_215050.png
+19_373949_215063,Sector 22,data/raw/imagery/19_373949_215063.png,data/processed/masks/19_373949_215063.png
+19_373965_215044,Sector 7-8,data/raw/imagery/19_373965_215044.png,data/processed/masks/19_373965_215044.png
+19_373967_215041,Sector 7-8,data/raw/imagery/19_373967_215041.png,data/processed/masks/19_373967_215041.png
+19_373969_215060,Sector 22,data/raw/imagery/19_373969_215060.png,data/processed/masks/19_373969_215060.png
+19_373926_215093,General,data/raw/imagery/19_373926_215093.png,data/processed/masks/19_373926_215093.png
+19_373956_215067,Sector 22,data/raw/imagery/19_373956_215067.png,data/processed/masks/19_373956_215067.png
+19_373971_215035,Sector 7-8,data/raw/imagery/19_373971_215035.png,data/processed/masks/19_373971_215035.png
+19_373954_215070,Sector 22,data/raw/imagery/19_373954_215070.png,data/processed/masks/19_373954_215070.png
+19_373953_215079,Sector 22,data/raw/imagery/19_373953_215079.png,data/processed/masks/19_373953_215079.png
+19_373950_215078,Sector 22,data/raw/imagery/19_373950_215078.png,data/processed/masks/19_373950_215078.png
+19_373985_215048,Sector 7-8,data/raw/imagery/19_373985_215048.png,data/processed/masks/19_373985_215048.png
+19_373958_215077,Sector 22,data/raw/imagery/19_373958_215077.png,data/processed/masks/19_373958_215077.png
+19_373949_215077,Sector 22,data/raw/imagery/19_373949_215077.png,data/processed/masks/19_373949_215077.png
+19_373975_215078,Sector 22,data/raw/imagery/19_373975_215078.png,data/processed/masks/19_373975_215078.png
+19_373954_215082,Sector 22,data/raw/imagery/19_373954_215082.png,data/processed/masks/19_373954_215082.png
+19_374010_215133,General,data/raw/imagery/19_374010_215133.png,data/processed/masks/19_374010_215133.png
+19_373856_215151,General,data/raw/imagery/19_373856_215151.png,data/processed/masks/19_373856_215151.png
+19_373960_215074,Sector 22,data/raw/imagery/19_373960_215074.png,data/processed/masks/19_373960_215074.png
+19_373955_215062,Sector 22,data/raw/imagery/19_373955_215062.png,data/processed/masks/19_373955_215062.png
+19_373964_215083,Sector 22,data/raw/imagery/19_373964_215083.png,data/processed/masks/19_373964_215083.png
+19_373959_215039,Sector 7-8,data/raw/imagery/19_373959_215039.png,data/processed/masks/19_373959_215039.png
+19_373970_215028,Sector 7-8,data/raw/imagery/19_373970_215028.png,data/processed/masks/19_373970_215028.png
+19_373985_215044,Sector 7-8,data/raw/imagery/19_373985_215044.png,data/processed/masks/19_373985_215044.png
+19_373963_215082,Sector 22,data/raw/imagery/19_373963_215082.png,data/processed/masks/19_373963_215082.png
+19_373961_215029,Sector 7-8,data/raw/imagery/19_373961_215029.png,data/processed/masks/19_373961_215029.png
+19_373984_215050,Sector 7-8,data/raw/imagery/19_373984_215050.png,data/processed/masks/19_373984_215050.png
+19_373950_215077,Sector 22,data/raw/imagery/19_373950_215077.png,data/processed/masks/19_373950_215077.png
+19_373962_215041,Sector 7-8,data/raw/imagery/19_373962_215041.png,data/processed/masks/19_373962_215041.png
+19_373985_215031,Sector 7-8,data/raw/imagery/19_373985_215031.png,data/processed/masks/19_373985_215031.png
+19_373963_215061,Sector 22,data/raw/imagery/19_373963_215061.png,data/processed/masks/19_373963_215061.png
+19_373952_215059,Sector 22,data/raw/imagery/19_373952_215059.png,data/processed/masks/19_373952_215059.png
+19_374016_215183,General,data/raw/imagery/19_374016_215183.png,data/processed/masks/19_374016_215183.png
+19_373969_215069,Sector 22,data/raw/imagery/19_373969_215069.png,data/processed/masks/19_373969_215069.png
+19_373979_215028,Sector 7-8,data/raw/imagery/19_373979_215028.png,data/processed/masks/19_373979_215028.png
+19_373986_215041,Sector 7-8,data/raw/imagery/19_373986_215041.png,data/processed/masks/19_373986_215041.png
+19_373971_215076,Sector 22,data/raw/imagery/19_373971_215076.png,data/processed/masks/19_373971_215076.png
+19_374083_215188,General,data/raw/imagery/19_374083_215188.png,data/processed/masks/19_374083_215188.png
+19_373854_215136,General,data/raw/imagery/19_373854_215136.png,data/processed/masks/19_373854_215136.png
+19_373967_215082,Sector 22,data/raw/imagery/19_373967_215082.png,data/processed/masks/19_373967_215082.png
+19_373966_215082,Sector 22,data/raw/imagery/19_373966_215082.png,data/processed/masks/19_373966_215082.png
+19_373982_215040,Sector 7-8,data/raw/imagery/19_373982_215040.png,data/processed/masks/19_373982_215040.png
+19_373958_215060,Sector 22,data/raw/imagery/19_373958_215060.png,data/processed/masks/19_373958_215060.png
+19_373957_215074,Sector 22,data/raw/imagery/19_373957_215074.png,data/processed/masks/19_373957_215074.png
+19_373972_215068,Sector 22,data/raw/imagery/19_373972_215068.png,data/processed/masks/19_373972_215068.png
+19_373976_215047,Sector 7-8,data/raw/imagery/19_373976_215047.png,data/processed/masks/19_373976_215047.png
+19_374038_215204,General,data/raw/imagery/19_374038_215204.png,data/processed/masks/19_374038_215204.png
+19_373955_215065,Sector 22,data/raw/imagery/19_373955_215065.png,data/processed/masks/19_373955_215065.png
+19_373985_215051,Sector 7-8,data/raw/imagery/19_373985_215051.png,data/processed/masks/19_373985_215051.png
+19_373958_215076,Sector 22,data/raw/imagery/19_373958_215076.png,data/processed/masks/19_373958_215076.png
+19_373974_215083,Sector 22,data/raw/imagery/19_373974_215083.png,data/processed/masks/19_373974_215083.png
+19_373969_215038,Sector 7-8,data/raw/imagery/19_373969_215038.png,data/processed/masks/19_373969_215038.png
+19_373950_215075,Sector 22,data/raw/imagery/19_373950_215075.png,data/processed/masks/19_373950_215075.png
+19_373962_215081,Sector 22,data/raw/imagery/19_373962_215081.png,data/processed/masks/19_373962_215081.png
+19_373976_215034,Sector 7-8,data/raw/imagery/19_373976_215034.png,data/processed/masks/19_373976_215034.png
+19_373971_215029,Sector 7-8,data/raw/imagery/19_373971_215029.png,data/processed/masks/19_373971_215029.png
+19_373976_215028,Sector 7-8,data/raw/imagery/19_373976_215028.png,data/processed/masks/19_373976_215028.png
+19_373986_215052,Sector 7-8,data/raw/imagery/19_373986_215052.png,data/processed/masks/19_373986_215052.png
+19_373960_215063,Sector 22,data/raw/imagery/19_373960_215063.png,data/processed/masks/19_373960_215063.png
+19_373963_215039,Sector 7-8,data/raw/imagery/19_373963_215039.png,data/processed/masks/19_373963_215039.png
+19_373973_215063,Sector 22,data/raw/imagery/19_373973_215063.png,data/processed/masks/19_373973_215063.png
+19_373953_215082,Sector 22,data/raw/imagery/19_373953_215082.png,data/processed/masks/19_373953_215082.png
+19_373971_215080,Sector 22,data/raw/imagery/19_373971_215080.png,data/processed/masks/19_373971_215080.png
+19_373953_215084,Sector 22,data/raw/imagery/19_373953_215084.png,data/processed/masks/19_373953_215084.png
+19_373980_215045,Sector 7-8,data/raw/imagery/19_373980_215045.png,data/processed/masks/19_373980_215045.png
+19_373953_215068,Sector 22,data/raw/imagery/19_373953_215068.png,data/processed/masks/19_373953_215068.png
+19_373948_215064,Sector 22,data/raw/imagery/19_373948_215064.png,data/processed/masks/19_373948_215064.png
+19_373950_215081,Sector 22,data/raw/imagery/19_373950_215081.png,data/processed/masks/19_373950_215081.png
+19_373974_215034,Sector 7-8,data/raw/imagery/19_373974_215034.png,data/processed/masks/19_373974_215034.png
+19_373967_215029,Sector 7-8,data/raw/imagery/19_373967_215029.png,data/processed/masks/19_373967_215029.png
+19_373976_215060,Sector 22,data/raw/imagery/19_373976_215060.png,data/processed/masks/19_373976_215060.png
+19_373972_215071,Sector 22,data/raw/imagery/19_373972_215071.png,data/processed/masks/19_373972_215071.png
+19_373968_215082,Sector 22,data/raw/imagery/19_373968_215082.png,data/processed/masks/19_373968_215082.png
+19_373950_215066,Sector 22,data/raw/imagery/19_373950_215066.png,data/processed/masks/19_373950_215066.png
+19_373975_215035,Sector 7-8,data/raw/imagery/19_373975_215035.png,data/processed/masks/19_373975_215035.png
+19_373959_215073,Sector 22,data/raw/imagery/19_373959_215073.png,data/processed/masks/19_373959_215073.png
+19_373971_215065,Sector 22,data/raw/imagery/19_373971_215065.png,data/processed/masks/19_373971_215065.png
+19_373962_215061,Sector 22,data/raw/imagery/19_373962_215061.png,data/processed/masks/19_373962_215061.png
+19_373977_215028,Sector 7-8,data/raw/imagery/19_373977_215028.png,data/processed/masks/19_373977_215028.png
+19_373962_215044,Sector 7-8,data/raw/imagery/19_373962_215044.png,data/processed/masks/19_373962_215044.png
+19_373971_215069,Sector 22,data/raw/imagery/19_373971_215069.png,data/processed/masks/19_373971_215069.png
+19_373958_215036,Sector 7-8,data/raw/imagery/19_373958_215036.png,data/processed/masks/19_373958_215036.png
+19_373959_215036,Sector 7-8,data/raw/imagery/19_373959_215036.png,data/processed/masks/19_373959_215036.png
+19_373849_215068,General,data/raw/imagery/19_373849_215068.png,data/processed/masks/19_373849_215068.png
+19_373958_215063,Sector 22,data/raw/imagery/19_373958_215063.png,data/processed/masks/19_373958_215063.png
+19_373986_215045,Sector 7-8,data/raw/imagery/19_373986_215045.png,data/processed/masks/19_373986_215045.png
+19_373961_215063,Sector 22,data/raw/imagery/19_373961_215063.png,data/processed/masks/19_373961_215063.png
+19_373979_215051,Sector 7-8,data/raw/imagery/19_373979_215051.png,data/processed/masks/19_373979_215051.png
+19_373980_215032,Sector 7-8,data/raw/imagery/19_373980_215032.png,data/processed/masks/19_373980_215032.png
+19_374043_215202,General,data/raw/imagery/19_374043_215202.png,data/processed/masks/19_374043_215202.png
+19_373974_215038,Sector 7-8,data/raw/imagery/19_373974_215038.png,data/processed/masks/19_373974_215038.png
+19_373969_215081,Sector 22,data/raw/imagery/19_373969_215081.png,data/processed/masks/19_373969_215081.png
+19_373951_215080,Sector 22,data/raw/imagery/19_373951_215080.png,data/processed/masks/19_373951_215080.png
+19_373960_215075,Sector 22,data/raw/imagery/19_373960_215075.png,data/processed/masks/19_373960_215075.png
+19_373949_215084,Sector 22,data/raw/imagery/19_373949_215084.png,data/processed/masks/19_373949_215084.png
+19_373970_215063,Sector 22,data/raw/imagery/19_373970_215063.png,data/processed/masks/19_373970_215063.png
+19_373963_215038,Sector 7-8,data/raw/imagery/19_373963_215038.png,data/processed/masks/19_373963_215038.png
+19_373968_215032,Sector 7-8,data/raw/imagery/19_373968_215032.png,data/processed/masks/19_373968_215032.png
+19_373948_215075,Sector 22,data/raw/imagery/19_373948_215075.png,data/processed/masks/19_373948_215075.png
+19_374024_215197,General,data/raw/imagery/19_374024_215197.png,data/processed/masks/19_374024_215197.png
+19_373952_215063,Sector 22,data/raw/imagery/19_373952_215063.png,data/processed/masks/19_373952_215063.png
+19_373975_215034,Sector 7-8,data/raw/imagery/19_373975_215034.png,data/processed/masks/19_373975_215034.png
+19_373959_215079,Sector 22,data/raw/imagery/19_373959_215079.png,data/processed/masks/19_373959_215079.png
+19_373954_215083,Sector 22,data/raw/imagery/19_373954_215083.png,data/processed/masks/19_373954_215083.png
+19_373940_215064,General,data/raw/imagery/19_373940_215064.png,data/processed/masks/19_373940_215064.png
+19_373950_215064,Sector 22,data/raw/imagery/19_373950_215064.png,data/processed/masks/19_373950_215064.png
+19_373957_215030,Sector 7-8,data/raw/imagery/19_373957_215030.png,data/processed/masks/19_373957_215030.png
+19_373971_215061,Sector 22,data/raw/imagery/19_373971_215061.png,data/processed/masks/19_373971_215061.png
+19_373957_215071,Sector 22,data/raw/imagery/19_373957_215071.png,data/processed/masks/19_373957_215071.png
+19_374046_215124,General,data/raw/imagery/19_374046_215124.png,data/processed/masks/19_374046_215124.png
+19_373975_215050,Sector 7-8,data/raw/imagery/19_373975_215050.png,data/processed/masks/19_373975_215050.png
+19_373962_215039,Sector 7-8,data/raw/imagery/19_373962_215039.png,data/processed/masks/19_373962_215039.png
+19_373973_215070,Sector 22,data/raw/imagery/19_373973_215070.png,data/processed/masks/19_373973_215070.png
+19_373958_215068,Sector 22,data/raw/imagery/19_373958_215068.png,data/processed/masks/19_373958_215068.png
+19_373962_215035,Sector 7-8,data/raw/imagery/19_373962_215035.png,data/processed/masks/19_373962_215035.png
+19_373985_215045,Sector 7-8,data/raw/imagery/19_373985_215045.png,data/processed/masks/19_373985_215045.png
+19_373957_215083,Sector 22,data/raw/imagery/19_373957_215083.png,data/processed/masks/19_373957_215083.png
+19_373960_215029,Sector 7-8,data/raw/imagery/19_373960_215029.png,data/processed/masks/19_373960_215029.png
+19_373951_215072,Sector 22,data/raw/imagery/19_373951_215072.png,data/processed/masks/19_373951_215072.png
+19_373883_215115,General,data/raw/imagery/19_373883_215115.png,data/processed/masks/19_373883_215115.png
+19_373962_215072,Sector 22,data/raw/imagery/19_373962_215072.png,data/processed/masks/19_373962_215072.png
+19_373952_215075,Sector 22,data/raw/imagery/19_373952_215075.png,data/processed/masks/19_373952_215075.png
+19_373970_215040,Sector 7-8,data/raw/imagery/19_373970_215040.png,data/processed/masks/19_373970_215040.png
+19_373975_215031,Sector 7-8,data/raw/imagery/19_373975_215031.png,data/processed/masks/19_373975_215031.png
+19_373951_215077,Sector 22,data/raw/imagery/19_373951_215077.png,data/processed/masks/19_373951_215077.png
+19_373974_215031,Sector 7-8,data/raw/imagery/19_373974_215031.png,data/processed/masks/19_373974_215031.png
+19_373966_215066,Sector 22,data/raw/imagery/19_373966_215066.png,data/processed/masks/19_373966_215066.png
+19_373951_215081,Sector 22,data/raw/imagery/19_373951_215081.png,data/processed/masks/19_373951_215081.png
+19_373962_215074,Sector 22,data/raw/imagery/19_373962_215074.png,data/processed/masks/19_373962_215074.png
+19_373977_215068,Sector 22,data/raw/imagery/19_373977_215068.png,data/processed/masks/19_373977_215068.png
+19_373972_215065,Sector 22,data/raw/imagery/19_373972_215065.png,data/processed/masks/19_373972_215065.png
+19_373961_215081,Sector 22,data/raw/imagery/19_373961_215081.png,data/processed/masks/19_373961_215081.png
+19_373948_215036,General,data/raw/imagery/19_373948_215036.png,data/processed/masks/19_373948_215036.png
+19_373978_215048,Sector 7-8,data/raw/imagery/19_373978_215048.png,data/processed/masks/19_373978_215048.png
+19_373964_215077,Sector 22,data/raw/imagery/19_373964_215077.png,data/processed/masks/19_373964_215077.png
+19_373974_215082,Sector 22,data/raw/imagery/19_373974_215082.png,data/processed/masks/19_373974_215082.png
+19_373966_215071,Sector 22,data/raw/imagery/19_373966_215071.png,data/processed/masks/19_373966_215071.png
+19_373954_215065,Sector 22,data/raw/imagery/19_373954_215065.png,data/processed/masks/19_373954_215065.png
+19_373968_215069,Sector 22,data/raw/imagery/19_373968_215069.png,data/processed/masks/19_373968_215069.png
+19_373953_215070,Sector 22,data/raw/imagery/19_373953_215070.png,data/processed/masks/19_373953_215070.png
+19_373951_215069,Sector 22,data/raw/imagery/19_373951_215069.png,data/processed/masks/19_373951_215069.png
+19_373950_215065,Sector 22,data/raw/imagery/19_373950_215065.png,data/processed/masks/19_373950_215065.png
+19_373976_215083,Sector 22,data/raw/imagery/19_373976_215083.png,data/processed/masks/19_373976_215083.png
+19_373973_215066,Sector 22,data/raw/imagery/19_373973_215066.png,data/processed/masks/19_373973_215066.png
+19_373977_215080,Sector 22,data/raw/imagery/19_373977_215080.png,data/processed/masks/19_373977_215080.png
+19_373952_215067,Sector 22,data/raw/imagery/19_373952_215067.png,data/processed/masks/19_373952_215067.png
+19_373906_214976,General,data/raw/imagery/19_373906_214976.png,data/processed/masks/19_373906_214976.png
+19_373967_215067,Sector 22,data/raw/imagery/19_373967_215067.png,data/processed/masks/19_373967_215067.png
+19_373949_215067,Sector 22,data/raw/imagery/19_373949_215067.png,data/processed/masks/19_373949_215067.png
+19_373899_215083,General,data/raw/imagery/19_373899_215083.png,data/processed/masks/19_373899_215083.png
+19_373964_215039,Sector 7-8,data/raw/imagery/19_373964_215039.png,data/processed/masks/19_373964_215039.png
+19_373970_215075,Sector 22,data/raw/imagery/19_373970_215075.png,data/processed/masks/19_373970_215075.png
+19_373979_215034,Sector 7-8,data/raw/imagery/19_373979_215034.png,data/processed/masks/19_373979_215034.png
+19_374008_215009,General,data/raw/imagery/19_374008_215009.png,data/processed/masks/19_374008_215009.png
+19_373961_215072,Sector 22,data/raw/imagery/19_373961_215072.png,data/processed/masks/19_373961_215072.png
+19_373961_215041,Sector 7-8,data/raw/imagery/19_373961_215041.png,data/processed/masks/19_373961_215041.png
+19_373879_215025,General,data/raw/imagery/19_373879_215025.png,data/processed/masks/19_373879_215025.png
+19_373975_215048,Sector 7-8,data/raw/imagery/19_373975_215048.png,data/processed/masks/19_373975_215048.png
+19_373971_215074,Sector 22,data/raw/imagery/19_373971_215074.png,data/processed/masks/19_373971_215074.png
+19_373981_215043,Sector 7-8,data/raw/imagery/19_373981_215043.png,data/processed/masks/19_373981_215043.png
+19_373979_215032,Sector 7-8,data/raw/imagery/19_373979_215032.png,data/processed/masks/19_373979_215032.png
+19_373958_215070,Sector 22,data/raw/imagery/19_373958_215070.png,data/processed/masks/19_373958_215070.png
+19_373962_215059,Sector 22,data/raw/imagery/19_373962_215059.png,data/processed/masks/19_373962_215059.png
+19_373981_215045,Sector 7-8,data/raw/imagery/19_373981_215045.png,data/processed/masks/19_373981_215045.png
+19_373959_215033,Sector 7-8,data/raw/imagery/19_373959_215033.png,data/processed/masks/19_373959_215033.png
+19_373968_215071,Sector 22,data/raw/imagery/19_373968_215071.png,data/processed/masks/19_373968_215071.png
+19_373968_215036,Sector 7-8,data/raw/imagery/19_373968_215036.png,data/processed/masks/19_373968_215036.png
+19_373982_215041,Sector 7-8,data/raw/imagery/19_373982_215041.png,data/processed/masks/19_373982_215041.png
+19_373960_215080,Sector 22,data/raw/imagery/19_373960_215080.png,data/processed/masks/19_373960_215080.png
+19_373955_215071,Sector 22,data/raw/imagery/19_373955_215071.png,data/processed/masks/19_373955_215071.png
+19_373977_215060,Sector 22,data/raw/imagery/19_373977_215060.png,data/processed/masks/19_373977_215060.png
+19_373954_215063,Sector 22,data/raw/imagery/19_373954_215063.png,data/processed/masks/19_373954_215063.png
+19_373960_215069,Sector 22,data/raw/imagery/19_373960_215069.png,data/processed/masks/19_373960_215069.png
+19_373959_215060,Sector 22,data/raw/imagery/19_373959_215060.png,data/processed/masks/19_373959_215060.png
+19_373973_215080,Sector 22,data/raw/imagery/19_373973_215080.png,data/processed/masks/19_373973_215080.png
+19_373951_215084,Sector 22,data/raw/imagery/19_373951_215084.png,data/processed/masks/19_373951_215084.png
+19_373870_215145,General,data/raw/imagery/19_373870_215145.png,data/processed/masks/19_373870_215145.png
+19_373981_215041,Sector 7-8,data/raw/imagery/19_373981_215041.png,data/processed/masks/19_373981_215041.png
+19_373972_215069,Sector 22,data/raw/imagery/19_373972_215069.png,data/processed/masks/19_373972_215069.png
+19_373958_215030,Sector 7-8,data/raw/imagery/19_373958_215030.png,data/processed/masks/19_373958_215030.png
+19_373971_215083,Sector 22,data/raw/imagery/19_373971_215083.png,data/processed/masks/19_373971_215083.png
+19_373965_215028,Sector 7-8,data/raw/imagery/19_373965_215028.png,data/processed/masks/19_373965_215028.png
+19_373925_215097,General,data/raw/imagery/19_373925_215097.png,data/processed/masks/19_373925_215097.png
+19_373955_215079,Sector 22,data/raw/imagery/19_373955_215079.png,data/processed/masks/19_373955_215079.png
+19_373977_215063,Sector 22,data/raw/imagery/19_373977_215063.png,data/processed/masks/19_373977_215063.png
+19_373986_215033,Sector 7-8,data/raw/imagery/19_373986_215033.png,data/processed/masks/19_373986_215033.png
+19_373956_215064,Sector 22,data/raw/imagery/19_373956_215064.png,data/processed/masks/19_373956_215064.png
+19_373976_215064,Sector 22,data/raw/imagery/19_373976_215064.png,data/processed/masks/19_373976_215064.png
+19_373967_215069,Sector 22,data/raw/imagery/19_373967_215069.png,data/processed/masks/19_373967_215069.png
+19_373958_215072,Sector 22,data/raw/imagery/19_373958_215072.png,data/processed/masks/19_373958_215072.png
+19_373984_215049,Sector 7-8,data/raw/imagery/19_373984_215049.png,data/processed/masks/19_373984_215049.png
+19_373897_215063,General,data/raw/imagery/19_373897_215063.png,data/processed/masks/19_373897_215063.png
+19_373968_215072,Sector 22,data/raw/imagery/19_373968_215072.png,data/processed/masks/19_373968_215072.png
+19_373982_215033,Sector 7-8,data/raw/imagery/19_373982_215033.png,data/processed/masks/19_373982_215033.png
+19_373966_215077,Sector 22,data/raw/imagery/19_373966_215077.png,data/processed/masks/19_373966_215077.png
+19_373975_215030,Sector 7-8,data/raw/imagery/19_373975_215030.png,data/processed/masks/19_373975_215030.png
+19_373974_215080,Sector 22,data/raw/imagery/19_373974_215080.png,data/processed/masks/19_373974_215080.png
+19_373963_215072,Sector 22,data/raw/imagery/19_373963_215072.png,data/processed/masks/19_373963_215072.png
+19_373977_215037,Sector 7-8,data/raw/imagery/19_373977_215037.png,data/processed/masks/19_373977_215037.png
+19_373967_215063,Sector 22,data/raw/imagery/19_373967_215063.png,data/processed/masks/19_373967_215063.png
+19_373968_215075,Sector 22,data/raw/imagery/19_373968_215075.png,data/processed/masks/19_373968_215075.png
+19_373952_215073,Sector 22,data/raw/imagery/19_373952_215073.png,data/processed/masks/19_373952_215073.png
+19_373960_215082,Sector 22,data/raw/imagery/19_373960_215082.png,data/processed/masks/19_373960_215082.png
+19_373959_215043,Sector 7-8,data/raw/imagery/19_373959_215043.png,data/processed/masks/19_373959_215043.png
+19_373967_215033,Sector 7-8,data/raw/imagery/19_373967_215033.png,data/processed/masks/19_373967_215033.png
+19_373969_215041,Sector 7-8,data/raw/imagery/19_373969_215041.png,data/processed/masks/19_373969_215041.png
+19_374062_215200,General,data/raw/imagery/19_374062_215200.png,data/processed/masks/19_374062_215200.png
+19_373968_215065,Sector 22,data/raw/imagery/19_373968_215065.png,data/processed/masks/19_373968_215065.png
+19_373959_215084,Sector 22,data/raw/imagery/19_373959_215084.png,data/processed/masks/19_373959_215084.png
+19_373958_215079,Sector 22,data/raw/imagery/19_373958_215079.png,data/processed/masks/19_373958_215079.png
+19_373959_215077,Sector 22,data/raw/imagery/19_373959_215077.png,data/processed/masks/19_373959_215077.png
+19_373948_215059,Sector 22,data/raw/imagery/19_373948_215059.png,data/processed/masks/19_373948_215059.png
+19_373985_215052,Sector 7-8,data/raw/imagery/19_373985_215052.png,data/processed/masks/19_373985_215052.png
+19_373976_215076,Sector 22,data/raw/imagery/19_373976_215076.png,data/processed/masks/19_373976_215076.png
+19_373962_215040,Sector 7-8,data/raw/imagery/19_373962_215040.png,data/processed/masks/19_373962_215040.png
+19_373970_215084,Sector 22,data/raw/imagery/19_373970_215084.png,data/processed/masks/19_373970_215084.png
+19_373979_215029,Sector 7-8,data/raw/imagery/19_373979_215029.png,data/processed/masks/19_373979_215029.png
+19_373965_215067,Sector 22,data/raw/imagery/19_373965_215067.png,data/processed/masks/19_373965_215067.png
+19_373949_215073,Sector 22,data/raw/imagery/19_373949_215073.png,data/processed/masks/19_373949_215073.png
+19_373959_215082,Sector 22,data/raw/imagery/19_373959_215082.png,data/processed/masks/19_373959_215082.png
+19_373965_215034,Sector 7-8,data/raw/imagery/19_373965_215034.png,data/processed/masks/19_373965_215034.png
+19_373965_215039,Sector 7-8,data/raw/imagery/19_373965_215039.png,data/processed/masks/19_373965_215039.png
+19_374094_215121,General,data/raw/imagery/19_374094_215121.png,data/processed/masks/19_374094_215121.png
+19_373948_215074,Sector 22,data/raw/imagery/19_373948_215074.png,data/processed/masks/19_373948_215074.png
+19_373971_215067,Sector 22,data/raw/imagery/19_373971_215067.png,data/processed/masks/19_373971_215067.png
+19_373976_215045,Sector 7-8,data/raw/imagery/19_373976_215045.png,data/processed/masks/19_373976_215045.png
+19_374001_215051,General,data/raw/imagery/19_374001_215051.png,data/processed/masks/19_374001_215051.png
+19_373969_215031,Sector 7-8,data/raw/imagery/19_373969_215031.png,data/processed/masks/19_373969_215031.png
+19_373962_215038,Sector 7-8,data/raw/imagery/19_373962_215038.png,data/processed/masks/19_373962_215038.png
+19_373977_215042,Sector 7-8,data/raw/imagery/19_373977_215042.png,data/processed/masks/19_373977_215042.png
+19_373977_215033,Sector 7-8,data/raw/imagery/19_373977_215033.png,data/processed/masks/19_373977_215033.png
+19_373977_215031,Sector 7-8,data/raw/imagery/19_373977_215031.png,data/processed/masks/19_373977_215031.png
+19_373860_215048,General,data/raw/imagery/19_373860_215048.png,data/processed/masks/19_373860_215048.png
+19_373959_215061,Sector 22,data/raw/imagery/19_373959_215061.png,data/processed/masks/19_373959_215061.png
+19_373974_215039,Sector 7-8,data/raw/imagery/19_373974_215039.png,data/processed/masks/19_373974_215039.png
+19_373963_215080,Sector 22,data/raw/imagery/19_373963_215080.png,data/processed/masks/19_373963_215080.png
+19_373906_215153,General,data/raw/imagery/19_373906_215153.png,data/processed/masks/19_373906_215153.png
+19_373971_215060,Sector 22,data/raw/imagery/19_373971_215060.png,data/processed/masks/19_373971_215060.png
+19_373951_215075,Sector 22,data/raw/imagery/19_373951_215075.png,data/processed/masks/19_373951_215075.png
+19_373959_215081,Sector 22,data/raw/imagery/19_373959_215081.png,data/processed/masks/19_373959_215081.png
+19_373964_215062,Sector 22,data/raw/imagery/19_373964_215062.png,data/processed/masks/19_373964_215062.png
+19_373971_215037,Sector 7-8,data/raw/imagery/19_373971_215037.png,data/processed/masks/19_373971_215037.png
+19_373955_215074,Sector 22,data/raw/imagery/19_373955_215074.png,data/processed/masks/19_373955_215074.png
+19_373995_215146,General,data/raw/imagery/19_373995_215146.png,data/processed/masks/19_373995_215146.png
+19_373960_215035,Sector 7-8,data/raw/imagery/19_373960_215035.png,data/processed/masks/19_373960_215035.png
+19_373967_215065,Sector 22,data/raw/imagery/19_373967_215065.png,data/processed/masks/19_373967_215065.png
+19_373963_215068,Sector 22,data/raw/imagery/19_373963_215068.png,data/processed/masks/19_373963_215068.png
+19_373986_215003,General,data/raw/imagery/19_373986_215003.png,data/processed/masks/19_373986_215003.png
+19_373967_215032,Sector 7-8,data/raw/imagery/19_373967_215032.png,data/processed/masks/19_373967_215032.png
+19_373967_215064,Sector 22,data/raw/imagery/19_373967_215064.png,data/processed/masks/19_373967_215064.png
+19_373981_215048,Sector 7-8,data/raw/imagery/19_373981_215048.png,data/processed/masks/19_373981_215048.png
+19_373971_215070,Sector 22,data/raw/imagery/19_373971_215070.png,data/processed/masks/19_373971_215070.png
+19_374052_215074,General,data/raw/imagery/19_374052_215074.png,data/processed/masks/19_374052_215074.png
+19_373951_215066,Sector 22,data/raw/imagery/19_373951_215066.png,data/processed/masks/19_373951_215066.png
+19_373972_215074,Sector 22,data/raw/imagery/19_373972_215074.png,data/processed/masks/19_373972_215074.png
+19_373980_215049,Sector 7-8,data/raw/imagery/19_373980_215049.png,data/processed/masks/19_373980_215049.png
+19_373955_215064,Sector 22,data/raw/imagery/19_373955_215064.png,data/processed/masks/19_373955_215064.png
+19_373976_215068,Sector 22,data/raw/imagery/19_373976_215068.png,data/processed/masks/19_373976_215068.png
+19_373957_215080,Sector 22,data/raw/imagery/19_373957_215080.png,data/processed/masks/19_373957_215080.png
+19_373986_215037,Sector 7-8,data/raw/imagery/19_373986_215037.png,data/processed/masks/19_373986_215037.png
+19_373865_215144,General,data/raw/imagery/19_373865_215144.png,data/processed/masks/19_373865_215144.png
+19_373962_215071,Sector 22,data/raw/imagery/19_373962_215071.png,data/processed/masks/19_373962_215071.png
+19_373957_215069,Sector 22,data/raw/imagery/19_373957_215069.png,data/processed/masks/19_373957_215069.png
+19_373969_215065,Sector 22,data/raw/imagery/19_373969_215065.png,data/processed/masks/19_373969_215065.png
+19_373965_215042,Sector 7-8,data/raw/imagery/19_373965_215042.png,data/processed/masks/19_373965_215042.png
+19_373981_215046,Sector 7-8,data/raw/imagery/19_373981_215046.png,data/processed/masks/19_373981_215046.png
+19_373975_215051,Sector 7-8,data/raw/imagery/19_373975_215051.png,data/processed/masks/19_373975_215051.png
+19_373973_215074,Sector 22,data/raw/imagery/19_373973_215074.png,data/processed/masks/19_373973_215074.png
+19_373972_215084,Sector 22,data/raw/imagery/19_373972_215084.png,data/processed/masks/19_373972_215084.png
+19_373953_215078,Sector 22,data/raw/imagery/19_373953_215078.png,data/processed/masks/19_373953_215078.png
+19_373952_215061,Sector 22,data/raw/imagery/19_373952_215061.png,data/processed/masks/19_373952_215061.png
+19_373974_215081,Sector 22,data/raw/imagery/19_373974_215081.png,data/processed/masks/19_373974_215081.png
+19_373948_215084,Sector 22,data/raw/imagery/19_373948_215084.png,data/processed/masks/19_373948_215084.png
+19_373971_215039,Sector 7-8,data/raw/imagery/19_373971_215039.png,data/processed/masks/19_373971_215039.png
+19_373969_215036,Sector 7-8,data/raw/imagery/19_373969_215036.png,data/processed/masks/19_373969_215036.png
+19_373962_215077,Sector 22,data/raw/imagery/19_373962_215077.png,data/processed/masks/19_373962_215077.png
+19_373969_215042,Sector 7-8,data/raw/imagery/19_373969_215042.png,data/processed/masks/19_373969_215042.png
+19_373873_215147,General,data/raw/imagery/19_373873_215147.png,data/processed/masks/19_373873_215147.png
+19_373958_215059,Sector 22,data/raw/imagery/19_373958_215059.png,data/processed/masks/19_373958_215059.png
+19_373968_215070,Sector 22,data/raw/imagery/19_373968_215070.png,data/processed/masks/19_373968_215070.png
+19_373978_215047,Sector 7-8,data/raw/imagery/19_373978_215047.png,data/processed/masks/19_373978_215047.png
+19_373985_215039,Sector 7-8,data/raw/imagery/19_373985_215039.png,data/processed/masks/19_373985_215039.png
+19_373965_215060,Sector 22,data/raw/imagery/19_373965_215060.png,data/processed/masks/19_373965_215060.png
+19_373979_215042,Sector 7-8,data/raw/imagery/19_373979_215042.png,data/processed/masks/19_373979_215042.png
+19_373958_215028,Sector 7-8,data/raw/imagery/19_373958_215028.png,data/processed/masks/19_373958_215028.png
+19_373960_215040,Sector 7-8,data/raw/imagery/19_373960_215040.png,data/processed/masks/19_373960_215040.png
+19_373975_215036,Sector 7-8,data/raw/imagery/19_373975_215036.png,data/processed/masks/19_373975_215036.png
+19_373953_215073,Sector 22,data/raw/imagery/19_373953_215073.png,data/processed/masks/19_373953_215073.png
+19_373973_215033,Sector 7-8,data/raw/imagery/19_373973_215033.png,data/processed/masks/19_373973_215033.png
+19_373953_215059,Sector 22,data/raw/imagery/19_373953_215059.png,data/processed/masks/19_373953_215059.png
+19_373977_215052,Sector 7-8,data/raw/imagery/19_373977_215052.png,data/processed/masks/19_373977_215052.png
+19_373977_215070,Sector 22,data/raw/imagery/19_373977_215070.png,data/processed/masks/19_373977_215070.png
+19_373948_215078,Sector 22,data/raw/imagery/19_373948_215078.png,data/processed/masks/19_373948_215078.png
+19_373975_215068,Sector 22,data/raw/imagery/19_373975_215068.png,data/processed/masks/19_373975_215068.png
+19_373937_215141,General,data/raw/imagery/19_373937_215141.png,data/processed/masks/19_373937_215141.png
+19_373981_215028,Sector 7-8,data/raw/imagery/19_373981_215028.png,data/processed/masks/19_373981_215028.png
+19_373956_215070,Sector 22,data/raw/imagery/19_373956_215070.png,data/processed/masks/19_373956_215070.png
+19_373967_215071,Sector 22,data/raw/imagery/19_373967_215071.png,data/processed/masks/19_373967_215071.png
+19_373948_215070,Sector 22,data/raw/imagery/19_373948_215070.png,data/processed/masks/19_373948_215070.png
+19_373960_215043,Sector 7-8,data/raw/imagery/19_373960_215043.png,data/processed/masks/19_373960_215043.png
+19_373975_215063,Sector 22,data/raw/imagery/19_373975_215063.png,data/processed/masks/19_373975_215063.png
+19_373951_215060,Sector 22,data/raw/imagery/19_373951_215060.png,data/processed/masks/19_373951_215060.png
+19_373948_215060,Sector 22,data/raw/imagery/19_373948_215060.png,data/processed/masks/19_373948_215060.png
+19_373980_215047,Sector 7-8,data/raw/imagery/19_373980_215047.png,data/processed/masks/19_373980_215047.png
+19_374098_215123,General,data/raw/imagery/19_374098_215123.png,data/processed/masks/19_374098_215123.png
+19_373970_215030,Sector 7-8,data/raw/imagery/19_373970_215030.png,data/processed/masks/19_373970_215030.png
+19_373964_215070,Sector 22,data/raw/imagery/19_373964_215070.png,data/processed/masks/19_373964_215070.png
+19_373960_215071,Sector 22,data/raw/imagery/19_373960_215071.png,data/processed/masks/19_373960_215071.png
+19_373967_215079,Sector 22,data/raw/imagery/19_373967_215079.png,data/processed/masks/19_373967_215079.png
+19_373952_215070,Sector 22,data/raw/imagery/19_373952_215070.png,data/processed/masks/19_373952_215070.png
+19_373955_215078,Sector 22,data/raw/imagery/19_373955_215078.png,data/processed/masks/19_373955_215078.png
+19_373978_215065,General,data/raw/imagery/19_373978_215065.png,data/processed/masks/19_373978_215065.png
+19_373972_215063,Sector 22,data/raw/imagery/19_373972_215063.png,data/processed/masks/19_373972_215063.png
+19_373954_215067,Sector 22,data/raw/imagery/19_373954_215067.png,data/processed/masks/19_373954_215067.png
+19_373961_215076,Sector 22,data/raw/imagery/19_373961_215076.png,data/processed/masks/19_373961_215076.png
+19_374016_215209,General,data/raw/imagery/19_374016_215209.png,data/processed/masks/19_374016_215209.png
+19_373963_215084,Sector 22,data/raw/imagery/19_373963_215084.png,data/processed/masks/19_373963_215084.png
+19_373949_215076,Sector 22,data/raw/imagery/19_373949_215076.png,data/processed/masks/19_373949_215076.png
+19_373966_215031,Sector 7-8,data/raw/imagery/19_373966_215031.png,data/processed/masks/19_373966_215031.png
+19_373983_215039,Sector 7-8,data/raw/imagery/19_373983_215039.png,data/processed/masks/19_373983_215039.png
+19_373970_215042,Sector 7-8,data/raw/imagery/19_373970_215042.png,data/processed/masks/19_373970_215042.png
+19_373969_215028,Sector 7-8,data/raw/imagery/19_373969_215028.png,data/processed/masks/19_373969_215028.png
+19_373962_215067,Sector 22,data/raw/imagery/19_373962_215067.png,data/processed/masks/19_373962_215067.png
+19_373965_215084,Sector 22,data/raw/imagery/19_373965_215084.png,data/processed/masks/19_373965_215084.png
+19_373975_215042,Sector 7-8,data/raw/imagery/19_373975_215042.png,data/processed/masks/19_373975_215042.png
+19_373980_215028,Sector 7-8,data/raw/imagery/19_373980_215028.png,data/processed/masks/19_373980_215028.png
+19_373973_215029,Sector 7-8,data/raw/imagery/19_373973_215029.png,data/processed/masks/19_373973_215029.png
+19_373983_215047,Sector 7-8,data/raw/imagery/19_373983_215047.png,data/processed/masks/19_373983_215047.png
+19_373950_215059,Sector 22,data/raw/imagery/19_373950_215059.png,data/processed/masks/19_373950_215059.png
+19_373970_215031,Sector 7-8,data/raw/imagery/19_373970_215031.png,data/processed/masks/19_373970_215031.png
+19_373971_215030,Sector 7-8,data/raw/imagery/19_373971_215030.png,data/processed/masks/19_373971_215030.png
+19_373949_215075,Sector 22,data/raw/imagery/19_373949_215075.png,data/processed/masks/19_373949_215075.png
+19_373961_215060,Sector 22,data/raw/imagery/19_373961_215060.png,data/processed/masks/19_373961_215060.png
+19_373968_215077,Sector 22,data/raw/imagery/19_373968_215077.png,data/processed/masks/19_373968_215077.png
+19_373979_215031,Sector 7-8,data/raw/imagery/19_373979_215031.png,data/processed/masks/19_373979_215031.png
+19_373974_215036,Sector 7-8,data/raw/imagery/19_373974_215036.png,data/processed/masks/19_373974_215036.png
+19_373922_215085,General,data/raw/imagery/19_373922_215085.png,data/processed/masks/19_373922_215085.png
+19_373965_215036,Sector 7-8,data/raw/imagery/19_373965_215036.png,data/processed/masks/19_373965_215036.png
+19_373969_215084,Sector 22,data/raw/imagery/19_373969_215084.png,data/processed/masks/19_373969_215084.png
+19_373971_215032,Sector 7-8,data/raw/imagery/19_373971_215032.png,data/processed/masks/19_373971_215032.png
+19_373949_215078,Sector 22,data/raw/imagery/19_373949_215078.png,data/processed/masks/19_373949_215078.png
+19_373966_215070,Sector 22,data/raw/imagery/19_373966_215070.png,data/processed/masks/19_373966_215070.png
+19_373977_215049,Sector 7-8,data/raw/imagery/19_373977_215049.png,data/processed/masks/19_373977_215049.png
+19_373966_215084,Sector 22,data/raw/imagery/19_373966_215084.png,data/processed/masks/19_373966_215084.png
+19_373949_215064,Sector 22,data/raw/imagery/19_373949_215064.png,data/processed/masks/19_373949_215064.png
+19_373966_215029,Sector 7-8,data/raw/imagery/19_373966_215029.png,data/processed/masks/19_373966_215029.png
+19_373958_215073,Sector 22,data/raw/imagery/19_373958_215073.png,data/processed/masks/19_373958_215073.png
+19_373955_215075,Sector 22,data/raw/imagery/19_373955_215075.png,data/processed/masks/19_373955_215075.png
+19_373966_215069,Sector 22,data/raw/imagery/19_373966_215069.png,data/processed/masks/19_373966_215069.png
+19_373970_215077,Sector 22,data/raw/imagery/19_373970_215077.png,data/processed/masks/19_373970_215077.png
+19_373973_215076,Sector 22,data/raw/imagery/19_373973_215076.png,data/processed/masks/19_373973_215076.png
+19_373970_215081,Sector 22,data/raw/imagery/19_373970_215081.png,data/processed/masks/19_373970_215081.png
+19_373972_215028,Sector 7-8,data/raw/imagery/19_373972_215028.png,data/processed/masks/19_373972_215028.png
+19_373908_215193,General,data/raw/imagery/19_373908_215193.png,data/processed/masks/19_373908_215193.png
+19_373958_215038,Sector 7-8,data/raw/imagery/19_373958_215038.png,data/processed/masks/19_373958_215038.png
+19_373980_215034,Sector 7-8,data/raw/imagery/19_373980_215034.png,data/processed/masks/19_373980_215034.png
+19_373975_215038,Sector 7-8,data/raw/imagery/19_373975_215038.png,data/processed/masks/19_373975_215038.png
+19_373972_215038,Sector 7-8,data/raw/imagery/19_373972_215038.png,data/processed/masks/19_373972_215038.png
+19_373969_215070,Sector 22,data/raw/imagery/19_373969_215070.png,data/processed/masks/19_373969_215070.png
+19_373952_215077,Sector 22,data/raw/imagery/19_373952_215077.png,data/processed/masks/19_373952_215077.png
+19_373949_215061,Sector 22,data/raw/imagery/19_373949_215061.png,data/processed/masks/19_373949_215061.png
+19_373853_215092,General,data/raw/imagery/19_373853_215092.png,data/processed/masks/19_373853_215092.png
+19_373965_215070,Sector 22,data/raw/imagery/19_373965_215070.png,data/processed/masks/19_373965_215070.png
+19_373975_215061,Sector 22,data/raw/imagery/19_373975_215061.png,data/processed/masks/19_373975_215061.png
+19_373964_215042,Sector 7-8,data/raw/imagery/19_373964_215042.png,data/processed/masks/19_373964_215042.png
+19_373912_215053,General,data/raw/imagery/19_373912_215053.png,data/processed/masks/19_373912_215053.png
+19_373955_215070,Sector 22,data/raw/imagery/19_373955_215070.png,data/processed/masks/19_373955_215070.png
+19_373984_215045,Sector 7-8,data/raw/imagery/19_373984_215045.png,data/processed/masks/19_373984_215045.png
+19_373984_215031,Sector 7-8,data/raw/imagery/19_373984_215031.png,data/processed/masks/19_373984_215031.png
+19_373960_215068,Sector 22,data/raw/imagery/19_373960_215068.png,data/processed/masks/19_373960_215068.png
+19_373975_215060,Sector 22,data/raw/imagery/19_373975_215060.png,data/processed/masks/19_373975_215060.png
+19_373971_215040,Sector 7-8,data/raw/imagery/19_373971_215040.png,data/processed/masks/19_373971_215040.png
+19_373982_215045,Sector 7-8,data/raw/imagery/19_373982_215045.png,data/processed/masks/19_373982_215045.png
+19_373957_215034,Sector 7-8,data/raw/imagery/19_373957_215034.png,data/processed/masks/19_373957_215034.png
+19_373976_215078,Sector 22,data/raw/imagery/19_373976_215078.png,data/processed/masks/19_373976_215078.png
+19_373957_215043,Sector 7-8,data/raw/imagery/19_373957_215043.png,data/processed/masks/19_373957_215043.png
+19_373950_215082,Sector 22,data/raw/imagery/19_373950_215082.png,data/processed/masks/19_373950_215082.png
+19_373964_215059,Sector 22,data/raw/imagery/19_373964_215059.png,data/processed/masks/19_373964_215059.png
+19_373910_215081,General,data/raw/imagery/19_373910_215081.png,data/processed/masks/19_373910_215081.png
+19_373977_215036,Sector 7-8,data/raw/imagery/19_373977_215036.png,data/processed/masks/19_373977_215036.png
+19_373968_215063,Sector 22,data/raw/imagery/19_373968_215063.png,data/processed/masks/19_373968_215063.png
+19_373971_215036,Sector 7-8,data/raw/imagery/19_373971_215036.png,data/processed/masks/19_373971_215036.png
+19_373961_215043,Sector 7-8,data/raw/imagery/19_373961_215043.png,data/processed/masks/19_373961_215043.png
+19_373974_215075,Sector 22,data/raw/imagery/19_373974_215075.png,data/processed/masks/19_373974_215075.png
+19_373966_215067,Sector 22,data/raw/imagery/19_373966_215067.png,data/processed/masks/19_373966_215067.png
+19_373959_215064,Sector 22,data/raw/imagery/19_373959_215064.png,data/processed/masks/19_373959_215064.png
+19_373962_215066,Sector 22,data/raw/imagery/19_373962_215066.png,data/processed/masks/19_373962_215066.png
+19_373957_215065,Sector 22,data/raw/imagery/19_373957_215065.png,data/processed/masks/19_373957_215065.png
+19_373873_215071,General,data/raw/imagery/19_373873_215071.png,data/processed/masks/19_373873_215071.png
+19_373967_215059,Sector 22,data/raw/imagery/19_373967_215059.png,data/processed/masks/19_373967_215059.png
+19_373897_215033,General,data/raw/imagery/19_373897_215033.png,data/processed/masks/19_373897_215033.png
+19_373972_215081,Sector 22,data/raw/imagery/19_373972_215081.png,data/processed/masks/19_373972_215081.png
+19_373971_215028,Sector 7-8,data/raw/imagery/19_373971_215028.png,data/processed/masks/19_373971_215028.png
+19_373982_215049,Sector 7-8,data/raw/imagery/19_373982_215049.png,data/processed/masks/19_373982_215049.png
+19_373959_215072,Sector 22,data/raw/imagery/19_373959_215072.png,data/processed/masks/19_373959_215072.png
+19_373973_215059,Sector 22,data/raw/imagery/19_373973_215059.png,data/processed/masks/19_373973_215059.png
+19_373963_215059,Sector 22,data/raw/imagery/19_373963_215059.png,data/processed/masks/19_373963_215059.png
+19_373969_215037,Sector 7-8,data/raw/imagery/19_373969_215037.png,data/processed/masks/19_373969_215037.png
+19_373954_215077,Sector 22,data/raw/imagery/19_373954_215077.png,data/processed/masks/19_373954_215077.png
+19_373969_215082,Sector 22,data/raw/imagery/19_373969_215082.png,data/processed/masks/19_373969_215082.png
+19_373961_215078,Sector 22,data/raw/imagery/19_373961_215078.png,data/processed/masks/19_373961_215078.png
+19_373951_215061,Sector 22,data/raw/imagery/19_373951_215061.png,data/processed/masks/19_373951_215061.png
+19_373974_215065,Sector 22,data/raw/imagery/19_373974_215065.png,data/processed/masks/19_373974_215065.png
+19_373971_215072,Sector 22,data/raw/imagery/19_373971_215072.png,data/processed/masks/19_373971_215072.png
+19_373965_215076,Sector 22,data/raw/imagery/19_373965_215076.png,data/processed/masks/19_373965_215076.png
+19_373967_215060,Sector 22,data/raw/imagery/19_373967_215060.png,data/processed/masks/19_373967_215060.png
+19_373964_215040,Sector 7-8,data/raw/imagery/19_373964_215040.png,data/processed/masks/19_373964_215040.png
+19_373995_215041,General,data/raw/imagery/19_373995_215041.png,data/processed/masks/19_373995_215041.png
+19_373870_215123,General,data/raw/imagery/19_373870_215123.png,data/processed/masks/19_373870_215123.png
+19_373950_215060,Sector 22,data/raw/imagery/19_373950_215060.png,data/processed/masks/19_373950_215060.png
+19_373973_215067,Sector 22,data/raw/imagery/19_373973_215067.png,data/processed/masks/19_373973_215067.png
+19_373974_215084,Sector 22,data/raw/imagery/19_373974_215084.png,data/processed/masks/19_373974_215084.png
+19_374054_215129,General,data/raw/imagery/19_374054_215129.png,data/processed/masks/19_374054_215129.png
+19_373952_215072,Sector 22,data/raw/imagery/19_373952_215072.png,data/processed/masks/19_373952_215072.png
+19_373975_215041,Sector 7-8,data/raw/imagery/19_373975_215041.png,data/processed/masks/19_373975_215041.png
+19_374044_215174,General,data/raw/imagery/19_374044_215174.png,data/processed/masks/19_374044_215174.png
+19_373965_215041,Sector 7-8,data/raw/imagery/19_373965_215041.png,data/processed/masks/19_373965_215041.png
+19_373952_215062,Sector 22,data/raw/imagery/19_373952_215062.png,data/processed/masks/19_373952_215062.png
+19_373957_215031,Sector 7-8,data/raw/imagery/19_373957_215031.png,data/processed/masks/19_373957_215031.png
+19_373962_215036,Sector 7-8,data/raw/imagery/19_373962_215036.png,data/processed/masks/19_373962_215036.png
+19_373980_215035,Sector 7-8,data/raw/imagery/19_373980_215035.png,data/processed/masks/19_373980_215035.png
+19_373978_215050,Sector 7-8,data/raw/imagery/19_373978_215050.png,data/processed/masks/19_373978_215050.png
+19_373978_215032,Sector 7-8,data/raw/imagery/19_373978_215032.png,data/processed/masks/19_373978_215032.png
+19_373962_215073,Sector 22,data/raw/imagery/19_373962_215073.png,data/processed/masks/19_373962_215073.png
+19_373976_215084,Sector 22,data/raw/imagery/19_373976_215084.png,data/processed/masks/19_373976_215084.png
+19_373961_215064,Sector 22,data/raw/imagery/19_373961_215064.png,data/processed/masks/19_373961_215064.png
+19_373951_215064,Sector 22,data/raw/imagery/19_373951_215064.png,data/processed/masks/19_373951_215064.png
+19_373870_215090,General,data/raw/imagery/19_373870_215090.png,data/processed/masks/19_373870_215090.png
+19_373977_215030,Sector 7-8,data/raw/imagery/19_373977_215030.png,data/processed/masks/19_373977_215030.png
+19_373963_215071,Sector 22,data/raw/imagery/19_373963_215071.png,data/processed/masks/19_373963_215071.png
+19_373966_215072,Sector 22,data/raw/imagery/19_373966_215072.png,data/processed/masks/19_373966_215072.png
+19_373977_215079,Sector 22,data/raw/imagery/19_373977_215079.png,data/processed/masks/19_373977_215079.png
+19_373975_215079,Sector 22,data/raw/imagery/19_373975_215079.png,data/processed/masks/19_373975_215079.png
+19_373978_215051,Sector 7-8,data/raw/imagery/19_373978_215051.png,data/processed/masks/19_373978_215051.png
+19_373974_215063,Sector 22,data/raw/imagery/19_373974_215063.png,data/processed/masks/19_373974_215063.png
+19_373986_215039,Sector 7-8,data/raw/imagery/19_373986_215039.png,data/processed/masks/19_373986_215039.png
+19_373956_215069,Sector 22,data/raw/imagery/19_373956_215069.png,data/processed/masks/19_373956_215069.png
+19_373970_215038,Sector 7-8,data/raw/imagery/19_373970_215038.png,data/processed/masks/19_373970_215038.png
+19_373953_215081,Sector 22,data/raw/imagery/19_373953_215081.png,data/processed/masks/19_373953_215081.png
+19_373879_215087,General,data/raw/imagery/19_373879_215087.png,data/processed/masks/19_373879_215087.png
+19_373960_215060,Sector 22,data/raw/imagery/19_373960_215060.png,data/processed/masks/19_373960_215060.png
+19_374038_215130,General,data/raw/imagery/19_374038_215130.png,data/processed/masks/19_374038_215130.png
+19_373954_215060,Sector 22,data/raw/imagery/19_373954_215060.png,data/processed/masks/19_373954_215060.png
+19_373899_215034,General,data/raw/imagery/19_373899_215034.png,data/processed/masks/19_373899_215034.png
+19_373969_215025,General,data/raw/imagery/19_373969_215025.png,data/processed/masks/19_373969_215025.png
+19_373976_215059,Sector 22,data/raw/imagery/19_373976_215059.png,data/processed/masks/19_373976_215059.png
+19_373961_215042,Sector 7-8,data/raw/imagery/19_373961_215042.png,data/processed/masks/19_373961_215042.png
+19_373979_215048,Sector 7-8,data/raw/imagery/19_373979_215048.png,data/processed/masks/19_373979_215048.png
+19_374061_215207,General,data/raw/imagery/19_374061_215207.png,data/processed/masks/19_374061_215207.png
+19_373967_215062,Sector 22,data/raw/imagery/19_373967_215062.png,data/processed/masks/19_373967_215062.png
+19_373984_215046,Sector 7-8,data/raw/imagery/19_373984_215046.png,data/processed/masks/19_373984_215046.png
+19_373966_215033,Sector 7-8,data/raw/imagery/19_373966_215033.png,data/processed/masks/19_373966_215033.png
+19_373980_215043,Sector 7-8,data/raw/imagery/19_373980_215043.png,data/processed/masks/19_373980_215043.png
+19_374086_215197,General,data/raw/imagery/19_374086_215197.png,data/processed/masks/19_374086_215197.png
+19_373983_215050,Sector 7-8,data/raw/imagery/19_373983_215050.png,data/processed/masks/19_373983_215050.png
+19_373970_215041,Sector 7-8,data/raw/imagery/19_373970_215041.png,data/processed/masks/19_373970_215041.png
+19_373951_215067,Sector 22,data/raw/imagery/19_373951_215067.png,data/processed/masks/19_373951_215067.png
+19_373974_215059,Sector 22,data/raw/imagery/19_373974_215059.png,data/processed/masks/19_373974_215059.png
+19_373970_215079,Sector 22,data/raw/imagery/19_373970_215079.png,data/processed/masks/19_373970_215079.png
+19_373979_215039,Sector 7-8,data/raw/imagery/19_373979_215039.png,data/processed/masks/19_373979_215039.png
+19_373972_215040,Sector 7-8,data/raw/imagery/19_373972_215040.png,data/processed/masks/19_373972_215040.png
+19_373973_215035,Sector 7-8,data/raw/imagery/19_373973_215035.png,data/processed/masks/19_373973_215035.png
+19_373951_215059,Sector 22,data/raw/imagery/19_373951_215059.png,data/processed/masks/19_373951_215059.png
+19_373984_215041,Sector 7-8,data/raw/imagery/19_373984_215041.png,data/processed/masks/19_373984_215041.png
+19_373962_215063,Sector 22,data/raw/imagery/19_373962_215063.png,data/processed/masks/19_373962_215063.png
+19_373981_215044,Sector 7-8,data/raw/imagery/19_373981_215044.png,data/processed/masks/19_373981_215044.png
+19_373949_215062,Sector 22,data/raw/imagery/19_373949_215062.png,data/processed/masks/19_373949_215062.png
+19_373964_215076,Sector 22,data/raw/imagery/19_373964_215076.png,data/processed/masks/19_373964_215076.png
+19_373982_215029,Sector 7-8,data/raw/imagery/19_373982_215029.png,data/processed/masks/19_373982_215029.png
+19_373915_215185,General,data/raw/imagery/19_373915_215185.png,data/processed/masks/19_373915_215185.png
+19_373950_215084,Sector 22,data/raw/imagery/19_373950_215084.png,data/processed/masks/19_373950_215084.png
+19_373959_215068,Sector 22,data/raw/imagery/19_373959_215068.png,data/processed/masks/19_373959_215068.png
+19_373953_215063,Sector 22,data/raw/imagery/19_373953_215063.png,data/processed/masks/19_373953_215063.png
+19_373986_215046,Sector 7-8,data/raw/imagery/19_373986_215046.png,data/processed/masks/19_373986_215046.png
+19_373978_215034,Sector 7-8,data/raw/imagery/19_373978_215034.png,data/processed/masks/19_373978_215034.png
+19_373855_215084,General,data/raw/imagery/19_373855_215084.png,data/processed/masks/19_373855_215084.png
+19_373975_215074,Sector 22,data/raw/imagery/19_373975_215074.png,data/processed/masks/19_373975_215074.png
+19_373976_215075,Sector 22,data/raw/imagery/19_373976_215075.png,data/processed/masks/19_373976_215075.png
+19_373960_215077,Sector 22,data/raw/imagery/19_373960_215077.png,data/processed/masks/19_373960_215077.png
+19_373954_215199,General,data/raw/imagery/19_373954_215199.png,data/processed/masks/19_373954_215199.png
+19_373972_215075,Sector 22,data/raw/imagery/19_373972_215075.png,data/processed/masks/19_373972_215075.png
+19_373982_215048,Sector 7-8,data/raw/imagery/19_373982_215048.png,data/processed/masks/19_373982_215048.png
+19_373972_215059,Sector 22,data/raw/imagery/19_373972_215059.png,data/processed/masks/19_373972_215059.png
+19_373986_215043,Sector 7-8,data/raw/imagery/19_373986_215043.png,data/processed/masks/19_373986_215043.png
+19_373965_215074,Sector 22,data/raw/imagery/19_373965_215074.png,data/processed/masks/19_373965_215074.png
+19_373958_215034,Sector 7-8,data/raw/imagery/19_373958_215034.png,data/processed/masks/19_373958_215034.png
+19_373980_215030,Sector 7-8,data/raw/imagery/19_373980_215030.png,data/processed/masks/19_373980_215030.png
+19_373955_215069,Sector 22,data/raw/imagery/19_373955_215069.png,data/processed/masks/19_373955_215069.png
+19_373950_215083,Sector 22,data/raw/imagery/19_373950_215083.png,data/processed/masks/19_373950_215083.png
+19_373961_215059,Sector 22,data/raw/imagery/19_373961_215059.png,data/processed/masks/19_373961_215059.png
+19_373966_215034,Sector 7-8,data/raw/imagery/19_373966_215034.png,data/processed/masks/19_373966_215034.png
+19_374076_215201,General,data/raw/imagery/19_374076_215201.png,data/processed/masks/19_374076_215201.png
+19_373986_215040,Sector 7-8,data/raw/imagery/19_373986_215040.png,data/processed/masks/19_373986_215040.png
+19_373963_215075,Sector 22,data/raw/imagery/19_373963_215075.png,data/processed/masks/19_373963_215075.png
+19_373973_215068,Sector 22,data/raw/imagery/19_373973_215068.png,data/processed/masks/19_373973_215068.png
+19_373961_215077,Sector 22,data/raw/imagery/19_373961_215077.png,data/processed/masks/19_373961_215077.png
+19_373983_215043,Sector 7-8,data/raw/imagery/19_373983_215043.png,data/processed/masks/19_373983_215043.png
+19_373950_215079,Sector 22,data/raw/imagery/19_373950_215079.png,data/processed/masks/19_373950_215079.png
+19_373959_215067,Sector 22,data/raw/imagery/19_373959_215067.png,data/processed/masks/19_373959_215067.png
+19_373974_215043,Sector 7-8,data/raw/imagery/19_373974_215043.png,data/processed/masks/19_373974_215043.png
+19_373986_215032,Sector 7-8,data/raw/imagery/19_373986_215032.png,data/processed/masks/19_373986_215032.png
+19_373966_215073,Sector 22,data/raw/imagery/19_373966_215073.png,data/processed/masks/19_373966_215073.png
+19_373961_215036,Sector 7-8,data/raw/imagery/19_373961_215036.png,data/processed/masks/19_373961_215036.png
+19_373952_215068,Sector 22,data/raw/imagery/19_373952_215068.png,data/processed/masks/19_373952_215068.png
+19_373979_215036,Sector 7-8,data/raw/imagery/19_373979_215036.png,data/processed/masks/19_373979_215036.png
+19_373965_215043,Sector 7-8,data/raw/imagery/19_373965_215043.png,data/processed/masks/19_373965_215043.png
+19_373950_215076,Sector 22,data/raw/imagery/19_373950_215076.png,data/processed/masks/19_373950_215076.png
+19_373969_215029,Sector 7-8,data/raw/imagery/19_373969_215029.png,data/processed/masks/19_373969_215029.png
+19_373975_215028,Sector 7-8,data/raw/imagery/19_373975_215028.png,data/processed/masks/19_373975_215028.png
+19_373952_215079,Sector 22,data/raw/imagery/19_373952_215079.png,data/processed/masks/19_373952_215079.png
+19_373972_215062,Sector 22,data/raw/imagery/19_373972_215062.png,data/processed/masks/19_373972_215062.png
+19_373956_215065,Sector 22,data/raw/imagery/19_373956_215065.png,data/processed/masks/19_373956_215065.png
+19_373956_215079,Sector 22,data/raw/imagery/19_373956_215079.png,data/processed/masks/19_373956_215079.png
+19_373983_215051,Sector 7-8,data/raw/imagery/19_373983_215051.png,data/processed/masks/19_373983_215051.png
+19_373959_215065,Sector 22,data/raw/imagery/19_373959_215065.png,data/processed/masks/19_373959_215065.png
+19_373949_215081,Sector 22,data/raw/imagery/19_373949_215081.png,data/processed/masks/19_373949_215081.png
+19_373952_215084,Sector 22,data/raw/imagery/19_373952_215084.png,data/processed/masks/19_373952_215084.png
+19_373971_215038,Sector 7-8,data/raw/imagery/19_373971_215038.png,data/processed/masks/19_373971_215038.png
+19_373954_215078,Sector 22,data/raw/imagery/19_373954_215078.png,data/processed/masks/19_373954_215078.png
+19_373986_215051,Sector 7-8,data/raw/imagery/19_373986_215051.png,data/processed/masks/19_373986_215051.png
+19_373986_215038,Sector 7-8,data/raw/imagery/19_373986_215038.png,data/processed/masks/19_373986_215038.png
+19_373979_215045,Sector 7-8,data/raw/imagery/19_373979_215045.png,data/processed/masks/19_373979_215045.png
+19_373959_215034,Sector 7-8,data/raw/imagery/19_373959_215034.png,data/processed/masks/19_373959_215034.png
+19_373971_215073,Sector 22,data/raw/imagery/19_373971_215073.png,data/processed/masks/19_373971_215073.png
+19_373953_215075,Sector 22,data/raw/imagery/19_373953_215075.png,data/processed/masks/19_373953_215075.png
+19_373966_215036,Sector 7-8,data/raw/imagery/19_373966_215036.png,data/processed/masks/19_373966_215036.png
+19_373850_215036,General,data/raw/imagery/19_373850_215036.png,data/processed/masks/19_373850_215036.png
+19_373949_215071,Sector 22,data/raw/imagery/19_373949_215071.png,data/processed/masks/19_373949_215071.png
+19_373967_215073,Sector 22,data/raw/imagery/19_373967_215073.png,data/processed/masks/19_373967_215073.png
+19_373996_215044,General,data/raw/imagery/19_373996_215044.png,data/processed/masks/19_373996_215044.png
+19_373974_215037,Sector 7-8,data/raw/imagery/19_373974_215037.png,data/processed/masks/19_373974_215037.png
+19_373981_215047,Sector 7-8,data/raw/imagery/19_373981_215047.png,data/processed/masks/19_373981_215047.png
+19_373983_215041,Sector 7-8,data/raw/imagery/19_373983_215041.png,data/processed/masks/19_373983_215041.png
+19_373960_215064,Sector 22,data/raw/imagery/19_373960_215064.png,data/processed/masks/19_373960_215064.png
+19_373978_215052,Sector 7-8,data/raw/imagery/19_373978_215052.png,data/processed/masks/19_373978_215052.png
+19_373966_215078,Sector 22,data/raw/imagery/19_373966_215078.png,data/processed/masks/19_373966_215078.png
+19_373984_215040,Sector 7-8,data/raw/imagery/19_373984_215040.png,data/processed/masks/19_373984_215040.png
+19_373957_215062,Sector 22,data/raw/imagery/19_373957_215062.png,data/processed/masks/19_373957_215062.png
+19_373966_215059,Sector 22,data/raw/imagery/19_373966_215059.png,data/processed/masks/19_373966_215059.png
+19_373968_215028,Sector 7-8,data/raw/imagery/19_373968_215028.png,data/processed/masks/19_373968_215028.png
+19_373974_215076,Sector 22,data/raw/imagery/19_373974_215076.png,data/processed/masks/19_373974_215076.png
+19_373965_215078,Sector 22,data/raw/imagery/19_373965_215078.png,data/processed/masks/19_373965_215078.png
+19_373965_215083,Sector 22,data/raw/imagery/19_373965_215083.png,data/processed/masks/19_373965_215083.png
+19_374041_215135,General,data/raw/imagery/19_374041_215135.png,data/processed/masks/19_374041_215135.png
+19_373984_215052,Sector 7-8,data/raw/imagery/19_373984_215052.png,data/processed/masks/19_373984_215052.png
+19_373970_215036,Sector 7-8,data/raw/imagery/19_373970_215036.png,data/processed/masks/19_373970_215036.png
+19_373966_215041,Sector 7-8,data/raw/imagery/19_373966_215041.png,data/processed/masks/19_373966_215041.png
+19_373975_215072,Sector 22,data/raw/imagery/19_373975_215072.png,data/processed/masks/19_373975_215072.png
+19_373963_215081,Sector 22,data/raw/imagery/19_373963_215081.png,data/processed/masks/19_373963_215081.png
+19_373967_215040,Sector 7-8,data/raw/imagery/19_373967_215040.png,data/processed/masks/19_373967_215040.png
+19_373964_215064,Sector 22,data/raw/imagery/19_373964_215064.png,data/processed/masks/19_373964_215064.png
+19_373977_215078,Sector 22,data/raw/imagery/19_373977_215078.png,data/processed/masks/19_373977_215078.png
+19_373981_215030,Sector 7-8,data/raw/imagery/19_373981_215030.png,data/processed/masks/19_373981_215030.png
+19_373962_215080,Sector 22,data/raw/imagery/19_373962_215080.png,data/processed/masks/19_373962_215080.png
+19_373976_215074,Sector 22,data/raw/imagery/19_373976_215074.png,data/processed/masks/19_373976_215074.png
+19_373963_215062,Sector 22,data/raw/imagery/19_373963_215062.png,data/processed/masks/19_373963_215062.png
+19_373981_215050,Sector 7-8,data/raw/imagery/19_373981_215050.png,data/processed/masks/19_373981_215050.png
+19_373969_215016,General,data/raw/imagery/19_373969_215016.png,data/processed/masks/19_373969_215016.png
+19_373985_215033,Sector 7-8,data/raw/imagery/19_373985_215033.png,data/processed/masks/19_373985_215033.png
+19_373961_215073,Sector 22,data/raw/imagery/19_373961_215073.png,data/processed/masks/19_373961_215073.png
+19_373948_215080,Sector 22,data/raw/imagery/19_373948_215080.png,data/processed/masks/19_373948_215080.png
+19_373975_215080,Sector 22,data/raw/imagery/19_373975_215080.png,data/processed/masks/19_373975_215080.png
+19_373964_215032,Sector 7-8,data/raw/imagery/19_373964_215032.png,data/processed/masks/19_373964_215032.png
+19_373968_215079,Sector 22,data/raw/imagery/19_373968_215079.png,data/processed/masks/19_373968_215079.png
+19_373971_215082,Sector 22,data/raw/imagery/19_373971_215082.png,data/processed/masks/19_373971_215082.png
+19_373972_215070,Sector 22,data/raw/imagery/19_373972_215070.png,data/processed/masks/19_373972_215070.png
+19_373976_215046,Sector 7-8,data/raw/imagery/19_373976_215046.png,data/processed/masks/19_373976_215046.png
+19_373953_215062,Sector 22,data/raw/imagery/19_373953_215062.png,data/processed/masks/19_373953_215062.png
+19_373959_215042,Sector 7-8,data/raw/imagery/19_373959_215042.png,data/processed/masks/19_373959_215042.png
+19_373970_215035,Sector 7-8,data/raw/imagery/19_373970_215035.png,data/processed/masks/19_373970_215035.png
+19_373972_215032,Sector 7-8,data/raw/imagery/19_373972_215032.png,data/processed/masks/19_373972_215032.png
+19_373959_215062,Sector 22,data/raw/imagery/19_373959_215062.png,data/processed/masks/19_373959_215062.png
+19_373969_215062,Sector 22,data/raw/imagery/19_373969_215062.png,data/processed/masks/19_373969_215062.png
+19_373984_215044,Sector 7-8,data/raw/imagery/19_373984_215044.png,data/processed/masks/19_373984_215044.png
+19_373976_215032,Sector 7-8,data/raw/imagery/19_373976_215032.png,data/processed/masks/19_373976_215032.png
+19_373966_215037,Sector 7-8,data/raw/imagery/19_373966_215037.png,data/processed/masks/19_373966_215037.png
+19_373965_215061,Sector 22,data/raw/imagery/19_373965_215061.png,data/processed/masks/19_373965_215061.png
+19_373974_215064,Sector 22,data/raw/imagery/19_373974_215064.png,data/processed/masks/19_373974_215064.png
+19_373968_215062,Sector 22,data/raw/imagery/19_373968_215062.png,data/processed/masks/19_373968_215062.png
+19_373967_215044,Sector 7-8,data/raw/imagery/19_373967_215044.png,data/processed/masks/19_373967_215044.png
+19_373948_215083,Sector 22,data/raw/imagery/19_373948_215083.png,data/processed/masks/19_373948_215083.png
+19_373970_215061,Sector 22,data/raw/imagery/19_373970_215061.png,data/processed/masks/19_373970_215061.png
+19_373959_215071,Sector 22,data/raw/imagery/19_373959_215071.png,data/processed/masks/19_373959_215071.png
+19_373962_215042,Sector 7-8,data/raw/imagery/19_373962_215042.png,data/processed/masks/19_373962_215042.png
+19_373977_215029,Sector 7-8,data/raw/imagery/19_373977_215029.png,data/processed/masks/19_373977_215029.png
+19_373976_215071,Sector 22,data/raw/imagery/19_373976_215071.png,data/processed/masks/19_373976_215071.png
+19_373973_215069,Sector 22,data/raw/imagery/19_373973_215069.png,data/processed/masks/19_373973_215069.png
+19_373969_215076,Sector 22,data/raw/imagery/19_373969_215076.png,data/processed/masks/19_373969_215076.png
+19_373952_215082,Sector 22,data/raw/imagery/19_373952_215082.png,data/processed/masks/19_373952_215082.png
+19_373950_215067,Sector 22,data/raw/imagery/19_373950_215067.png,data/processed/masks/19_373950_215067.png
+19_373976_215065,Sector 22,data/raw/imagery/19_373976_215065.png,data/processed/masks/19_373976_215065.png
+19_373903_215087,General,data/raw/imagery/19_373903_215087.png,data/processed/masks/19_373903_215087.png
+19_373975_215077,Sector 22,data/raw/imagery/19_373975_215077.png,data/processed/masks/19_373975_215077.png
+19_373954_215061,Sector 22,data/raw/imagery/19_373954_215061.png,data/processed/masks/19_373954_215061.png
+19_373958_215082,Sector 22,data/raw/imagery/19_373958_215082.png,data/processed/masks/19_373958_215082.png
+19_373956_215074,Sector 22,data/raw/imagery/19_373956_215074.png,data/processed/masks/19_373956_215074.png
+19_373959_215083,Sector 22,data/raw/imagery/19_373959_215083.png,data/processed/masks/19_373959_215083.png
+19_373959_215041,Sector 7-8,data/raw/imagery/19_373959_215041.png,data/processed/masks/19_373959_215041.png
+19_373964_215082,Sector 22,data/raw/imagery/19_373964_215082.png,data/processed/masks/19_373964_215082.png
+19_373980_215029,Sector 7-8,data/raw/imagery/19_373980_215029.png,data/processed/masks/19_373980_215029.png
+19_373977_215048,Sector 7-8,data/raw/imagery/19_373977_215048.png,data/processed/masks/19_373977_215048.png
+19_373966_215044,Sector 7-8,data/raw/imagery/19_373966_215044.png,data/processed/masks/19_373966_215044.png
+19_373979_215044,Sector 7-8,data/raw/imagery/19_373979_215044.png,data/processed/masks/19_373979_215044.png
+19_373962_215076,Sector 22,data/raw/imagery/19_373962_215076.png,data/processed/masks/19_373962_215076.png
+19_373932_215210,General,data/raw/imagery/19_373932_215210.png,data/processed/masks/19_373932_215210.png
+19_373865_215089,General,data/raw/imagery/19_373865_215089.png,data/processed/masks/19_373865_215089.png
+19_373980_215052,Sector 7-8,data/raw/imagery/19_373980_215052.png,data/processed/masks/19_373980_215052.png
+19_373976_215079,Sector 22,data/raw/imagery/19_373976_215079.png,data/processed/masks/19_373976_215079.png
+19_373961_215082,Sector 22,data/raw/imagery/19_373961_215082.png,data/processed/masks/19_373961_215082.png
+19_373958_215083,Sector 22,data/raw/imagery/19_373958_215083.png,data/processed/masks/19_373958_215083.png
+19_373952_215069,Sector 22,data/raw/imagery/19_373952_215069.png,data/processed/masks/19_373952_215069.png
+19_373969_215059,Sector 22,data/raw/imagery/19_373969_215059.png,data/processed/masks/19_373969_215059.png
+19_373953_215072,Sector 22,data/raw/imagery/19_373953_215072.png,data/processed/masks/19_373953_215072.png
+19_373970_215032,Sector 7-8,data/raw/imagery/19_373970_215032.png,data/processed/masks/19_373970_215032.png
+19_373977_215034,Sector 7-8,data/raw/imagery/19_373977_215034.png,data/processed/masks/19_373977_215034.png
+19_373972_215041,Sector 7-8,data/raw/imagery/19_373972_215041.png,data/processed/masks/19_373972_215041.png
+19_373957_215082,Sector 22,data/raw/imagery/19_373957_215082.png,data/processed/masks/19_373957_215082.png
+19_373968_215040,Sector 7-8,data/raw/imagery/19_373968_215040.png,data/processed/masks/19_373968_215040.png
+19_373956_215081,Sector 22,data/raw/imagery/19_373956_215081.png,data/processed/masks/19_373956_215081.png
+19_373975_215076,Sector 22,data/raw/imagery/19_373975_215076.png,data/processed/masks/19_373975_215076.png
+19_373986_215042,Sector 7-8,data/raw/imagery/19_373986_215042.png,data/processed/masks/19_373986_215042.png
+19_373960_215081,Sector 22,data/raw/imagery/19_373960_215081.png,data/processed/masks/19_373960_215081.png
+19_373970_215073,Sector 22,data/raw/imagery/19_373970_215073.png,data/processed/masks/19_373970_215073.png
+19_373955_215076,Sector 22,data/raw/imagery/19_373955_215076.png,data/processed/masks/19_373955_215076.png
+19_373975_215047,Sector 7-8,data/raw/imagery/19_373975_215047.png,data/processed/masks/19_373975_215047.png
+19_373952_215083,Sector 22,data/raw/imagery/19_373952_215083.png,data/processed/masks/19_373952_215083.png
+19_373951_215068,Sector 22,data/raw/imagery/19_373951_215068.png,data/processed/masks/19_373951_215068.png
+19_373968_215066,Sector 22,data/raw/imagery/19_373968_215066.png,data/processed/masks/19_373968_215066.png
+19_373959_215066,Sector 22,data/raw/imagery/19_373959_215066.png,data/processed/masks/19_373959_215066.png
+19_373967_215078,Sector 22,data/raw/imagery/19_373967_215078.png,data/processed/masks/19_373967_215078.png
+19_373978_215045,Sector 7-8,data/raw/imagery/19_373978_215045.png,data/processed/masks/19_373978_215045.png
+19_373964_215034,Sector 7-8,data/raw/imagery/19_373964_215034.png,data/processed/masks/19_373964_215034.png
+19_373975_215081,Sector 22,data/raw/imagery/19_373975_215081.png,data/processed/masks/19_373975_215081.png
+19_373976_215029,Sector 7-8,data/raw/imagery/19_373976_215029.png,data/processed/masks/19_373976_215029.png
+19_373977_215073,Sector 22,data/raw/imagery/19_373977_215073.png,data/processed/masks/19_373977_215073.png
+19_373953_215061,Sector 22,data/raw/imagery/19_373953_215061.png,data/processed/masks/19_373953_215061.png
+19_373895_215110,General,data/raw/imagery/19_373895_215110.png,data/processed/masks/19_373895_215110.png
+19_373969_215072,Sector 22,data/raw/imagery/19_373969_215072.png,data/processed/masks/19_373969_215072.png
+19_373962_215062,Sector 22,data/raw/imagery/19_373962_215062.png,data/processed/masks/19_373962_215062.png
+19_374063_215202,General,data/raw/imagery/19_374063_215202.png,data/processed/masks/19_374063_215202.png
+19_373948_215076,Sector 22,data/raw/imagery/19_373948_215076.png,data/processed/masks/19_373948_215076.png
+19_373972_215076,Sector 22,data/raw/imagery/19_373972_215076.png,data/processed/masks/19_373972_215076.png
+19_373964_215033,Sector 7-8,data/raw/imagery/19_373964_215033.png,data/processed/masks/19_373964_215033.png
+19_373969_215073,Sector 22,data/raw/imagery/19_373969_215073.png,data/processed/masks/19_373969_215073.png
+19_373954_215073,Sector 22,data/raw/imagery/19_373954_215073.png,data/processed/masks/19_373954_215073.png
+19_373862_215064,General,data/raw/imagery/19_373862_215064.png,data/processed/masks/19_373862_215064.png
+19_373957_215059,Sector 22,data/raw/imagery/19_373957_215059.png,data/processed/masks/19_373957_215059.png
+19_373965_215033,Sector 7-8,data/raw/imagery/19_373965_215033.png,data/processed/masks/19_373965_215033.png
+19_373959_215037,Sector 7-8,data/raw/imagery/19_373959_215037.png,data/processed/masks/19_373959_215037.png
+19_374005_214982,General,data/raw/imagery/19_374005_214982.png,data/processed/masks/19_374005_214982.png
+19_373951_215074,Sector 22,data/raw/imagery/19_373951_215074.png,data/processed/masks/19_373951_215074.png
+19_373971_215059,Sector 22,data/raw/imagery/19_373971_215059.png,data/processed/masks/19_373971_215059.png
+19_373873_215077,General,data/raw/imagery/19_373873_215077.png,data/processed/masks/19_373873_215077.png
+19_373966_215042,Sector 7-8,data/raw/imagery/19_373966_215042.png,data/processed/masks/19_373966_215042.png
+19_373979_215046,Sector 7-8,data/raw/imagery/19_373979_215046.png,data/processed/masks/19_373979_215046.png
+19_373971_215033,Sector 7-8,data/raw/imagery/19_373971_215033.png,data/processed/masks/19_373971_215033.png
+19_373986_215031,Sector 7-8,data/raw/imagery/19_373986_215031.png,data/processed/masks/19_373986_215031.png
+19_373964_215031,Sector 7-8,data/raw/imagery/19_373964_215031.png,data/processed/masks/19_373964_215031.png
+19_374039_215178,General,data/raw/imagery/19_374039_215178.png,data/processed/masks/19_374039_215178.png
+19_373967_215061,Sector 22,data/raw/imagery/19_373967_215061.png,data/processed/masks/19_373967_215061.png
+19_373974_215060,Sector 22,data/raw/imagery/19_373974_215060.png,data/processed/masks/19_373974_215060.png
+19_373952_215071,Sector 22,data/raw/imagery/19_373952_215071.png,data/processed/masks/19_373952_215071.png
+19_373974_215079,Sector 22,data/raw/imagery/19_373974_215079.png,data/processed/masks/19_373974_215079.png
+19_373967_215074,Sector 22,data/raw/imagery/19_373967_215074.png,data/processed/masks/19_373967_215074.png
+19_373962_215065,Sector 22,data/raw/imagery/19_373962_215065.png,data/processed/masks/19_373962_215065.png
+19_373977_215044,Sector 7-8,data/raw/imagery/19_373977_215044.png,data/processed/masks/19_373977_215044.png
+19_373961_215061,Sector 22,data/raw/imagery/19_373961_215061.png,data/processed/masks/19_373961_215061.png
+19_373971_215075,Sector 22,data/raw/imagery/19_373971_215075.png,data/processed/masks/19_373971_215075.png
+19_373968_215084,Sector 22,data/raw/imagery/19_373968_215084.png,data/processed/masks/19_373968_215084.png
+19_373954_215084,Sector 22,data/raw/imagery/19_373954_215084.png,data/processed/masks/19_373954_215084.png
+19_373873_215128,General,data/raw/imagery/19_373873_215128.png,data/processed/masks/19_373873_215128.png
+19_373961_215028,Sector 7-8,data/raw/imagery/19_373961_215028.png,data/processed/masks/19_373961_215028.png
+19_373981_215031,Sector 7-8,data/raw/imagery/19_373981_215031.png,data/processed/masks/19_373981_215031.png
+19_373955_215084,Sector 22,data/raw/imagery/19_373955_215084.png,data/processed/masks/19_373955_215084.png
+19_373974_215044,Sector 7-8,data/raw/imagery/19_373974_215044.png,data/processed/masks/19_373974_215044.png
+19_373983_215031,Sector 7-8,data/raw/imagery/19_373983_215031.png,data/processed/masks/19_373983_215031.png
+19_373959_215035,Sector 7-8,data/raw/imagery/19_373959_215035.png,data/processed/masks/19_373959_215035.png
+19_373970_215062,Sector 22,data/raw/imagery/19_373970_215062.png,data/processed/masks/19_373970_215062.png
+19_373958_215032,Sector 7-8,data/raw/imagery/19_373958_215032.png,data/processed/masks/19_373958_215032.png
+19_373969_215066,Sector 22,data/raw/imagery/19_373969_215066.png,data/processed/masks/19_373969_215066.png
+19_374065_215112,General,data/raw/imagery/19_374065_215112.png,data/processed/masks/19_374065_215112.png
+19_373950_215063,Sector 22,data/raw/imagery/19_373950_215063.png,data/processed/masks/19_373950_215063.png
+19_373972_215033,Sector 7-8,data/raw/imagery/19_373972_215033.png,data/processed/masks/19_373972_215033.png
+19_373978_215035,Sector 7-8,data/raw/imagery/19_373978_215035.png,data/processed/masks/19_373978_215035.png
+19_373948_215072,Sector 22,data/raw/imagery/19_373948_215072.png,data/processed/masks/19_373948_215072.png
+19_373957_215075,Sector 22,data/raw/imagery/19_373957_215075.png,data/processed/masks/19_373957_215075.png
+19_373984_215042,Sector 7-8,data/raw/imagery/19_373984_215042.png,data/processed/masks/19_373984_215042.png
+19_373961_215039,Sector 7-8,data/raw/imagery/19_373961_215039.png,data/processed/masks/19_373961_215039.png
+19_373949_215080,Sector 22,data/raw/imagery/19_373949_215080.png,data/processed/masks/19_373949_215080.png
+19_373976_215052,Sector 7-8,data/raw/imagery/19_373976_215052.png,data/processed/masks/19_373976_215052.png
+19_373977_215064,Sector 22,data/raw/imagery/19_373977_215064.png,data/processed/masks/19_373977_215064.png
+19_373978_215046,Sector 7-8,data/raw/imagery/19_373978_215046.png,data/processed/masks/19_373978_215046.png
+19_374001_215089,General,data/raw/imagery/19_374001_215089.png,data/processed/masks/19_374001_215089.png
+19_373971_215079,Sector 22,data/raw/imagery/19_373971_215079.png,data/processed/masks/19_373971_215079.png
+19_373978_215040,Sector 7-8,data/raw/imagery/19_373978_215040.png,data/processed/masks/19_373978_215040.png
