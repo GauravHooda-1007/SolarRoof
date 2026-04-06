@@ -62,7 +62,9 @@ def main():
     empty_masks = 0
     total_coverage = 0.0
 
-    for json_file in json_files:
+    total_files = len(json_files)
+
+    for idx, json_file in enumerate(json_files, 1):
         with open(json_file, 'r') as f:
             meta = json.load(f)
             
@@ -134,21 +136,24 @@ def main():
         )
         
         roof_pixel_pct = 100 * mask.sum() / (512 * 512)
+        roof_pixel_pct = 100 * mask.sum() / (512 * 512)
         if roof_pixel_pct == 0.0:
-            logging.warning("empty mask for %s", tile_name)
             empty_masks += 1
         else:
-            logging.info("%s: roof coverage %.1f%%", tile_name, roof_pixel_pct)
             total_saved += 1
             
         total_coverage += roof_pixel_pct
         total_processed += 1
 
+        if idx % 100 == 0:
+            avg_cov_so_far = total_coverage / total_processed
+            print(f"Masks: {idx}/{total_files} — avg coverage {avg_cov_so_far:.1f}%")
+
     # STEP 3 — Summary
     avg_cov = total_coverage / total_processed if total_processed > 0 else 0.0
     print(f"Total tiles processed: {total_processed}")
     print(f"Total masks saved: {total_saved}")
-    print(f"Empty masks: {empty_masks}")
+    print(f"Empty masks (0% coverage): {empty_masks}")
     print(f"Average roof coverage: {avg_cov:.1f}%")
 
 if __name__ == '__main__':
