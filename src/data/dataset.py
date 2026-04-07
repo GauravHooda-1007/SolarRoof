@@ -23,7 +23,7 @@ class RoofDataset(Dataset):
                 A.ColorJitter(
                     brightness=0.2, contrast=0.2,
                     saturation=0.2, hue=0.1, p=0.5),
-                A.GaussNoise(var_limit=(10, 50), p=0.3),
+                A.GaussNoise(p=0.3),
                 A.Normalize(
                     mean=[0.485, 0.456, 0.406],
                     std=[0.229, 0.224, 0.225]),
