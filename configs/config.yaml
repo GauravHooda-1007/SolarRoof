@@ -44,3 +44,14 @@ energy:
   performance_ratio: 0.75
   confidence_threshold_conservative: 0.70
   confidence_threshold_optimistic: 0.50
+training:
+  batch_size: 8
+  num_epochs: 50
+  learning_rate: 0.0001
+  early_stopping_patience: 10
+  num_workers: 0
+
+model:
+  num_classes: 2
+  encoder: resnet34
+  encoder_weights: imagenet
